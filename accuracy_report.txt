@@ -1,0 +1,368 @@
+CRYPTO PREDICTION ACCURACY REPORT
+============================================================
+
+Backtest Results for DOGE_USDT (Forecast Horizon: 1 days):
+Warning: Skipped 3 entries without 'close' for DOGE_USDT
+MAE: 0.0936
+RMSE: 0.1041
+MAPE: 57.54% error
+Analysis:
+- MAE of 0.0936 means the predictions differ from actual prices by this amount on average.
+- RMSE of 0.1041 shows error magnitude (larger errors penalized more).
+- MAPE of 57.54% shows the average percentage error relative to price.
+- The model is highly inaccurate. Accuracy ~ 42.5%.
+
+============================================================
+
+Backtest Results for DOGE_USDT (Forecast Horizon: 7 days):
+Warning: Skipped 3 entries without 'close' for DOGE_USDT
+MAE: 0.0936
+RMSE: 0.1041
+MAPE: 57.29% error
+Analysis:
+- MAE of 0.0936 means the predictions differ from actual prices by this amount on average.
+- RMSE of 0.1041 shows error magnitude (larger errors penalized more).
+- MAPE of 57.29% shows the average percentage error relative to price.
+- The model is highly inaccurate. Accuracy ~ 42.7%.
+
+============================================================
+
+Backtest Results for DOGE_USDT (Forecast Horizon: 30 days):
+Warning: Skipped 3 entries without 'close' for DOGE_USDT
+MAE: 0.0938
+RMSE: 0.1046
+MAPE: 56.28% error
+Analysis:
+- MAE of 0.0938 means the predictions differ from actual prices by this amount on average.
+- RMSE of 0.1046 shows error magnitude (larger errors penalized more).
+- MAPE of 56.28% shows the average percentage error relative to price.
+- The model is highly inaccurate. Accuracy ~ 43.7%.
+
+============================================================
+
+Backtest Results for XRP_USDT (Forecast Horizon: 1 days):
+MAE: 0.9291
+RMSE: 1.0306
+MAPE: 57.12% error
+Analysis:
+- MAE of 0.9291 means the predictions differ from actual prices by this amount on average.
+- RMSE of 1.0306 shows error magnitude (larger errors penalized more).
+- MAPE of 57.12% shows the average percentage error relative to price.
+- The model is highly inaccurate. Accuracy ~ 42.9%.
+
+============================================================
+
+Backtest Results for XRP_USDT (Forecast Horizon: 7 days):
+MAE: 0.9357
+RMSE: 1.0396
+MAPE: 57.32% error
+Analysis:
+- MAE of 0.9357 means the predictions differ from actual prices by this amount on average.
+- RMSE of 1.0396 shows error magnitude (larger errors penalized more).
+- MAPE of 57.32% shows the average percentage error relative to price.
+- The model is highly inaccurate. Accuracy ~ 42.7%.
+
+============================================================
+
+Backtest Results for XRP_USDT (Forecast Horizon: 30 days):
+MAE: 0.9553
+RMSE: 1.0632
+MAPE: 57.71% error
+Analysis:
+- MAE of 0.9553 means the predictions differ from actual prices by this amount on average.
+- RMSE of 1.0632 shows error magnitude (larger errors penalized more).
+- MAPE of 57.71% shows the average percentage error relative to price.
+- The model is highly inaccurate. Accuracy ~ 42.3%.
+
+============================================================
+
+Backtest Results for MATIC_USDT (Forecast Horizon: 1 days):
+MAE: 0.4117
+RMSE: 0.4519
+MAPE: 68.86% error
+Analysis:
+- MAE of 0.4117 means the predictions differ from actual prices by this amount on average.
+- RMSE of 0.4519 shows error magnitude (larger errors penalized more).
+- MAPE of 68.86% shows the average percentage error relative to price.
+- The model is highly inaccurate. Accuracy ~ 31.1%.
+
+============================================================
+
+Backtest Results for MATIC_USDT (Forecast Horizon: 7 days):
+MAE: 0.4132
+RMSE: 0.4538
+MAPE: 69.23% error
+Analysis:
+- MAE of 0.4132 means the predictions differ from actual prices by this amount on average.
+- RMSE of 0.4538 shows error magnitude (larger errors penalized more).
+- MAPE of 69.23% shows the average percentage error relative to price.
+- The model is highly inaccurate. Accuracy ~ 30.8%.
+
+============================================================
+
+Backtest Results for MATIC_USDT (Forecast Horizon: 30 days):
+MAE: 0.4160
+RMSE: 0.4583
+MAPE: 69.97% error
+Analysis:
+- MAE of 0.4160 means the predictions differ from actual prices by this amount on average.
+- RMSE of 0.4583 shows error magnitude (larger errors penalized more).
+- MAPE of 69.97% shows the average percentage error relative to price.
+- The model is highly inaccurate. Accuracy ~ 30.0%.
+
+============================================================
+
+Backtest Results for ETH_USDT (Forecast Horizon: 1 days):
+MAE: 414.3972
+RMSE: 548.5077
+MAPE: 16.04% error
+Analysis:
+- MAE of 414.3972 means the predictions differ from actual prices by this amount on average.
+- RMSE of 548.5077 shows error magnitude (larger errors penalized more).
+- MAPE of 16.04% shows the average percentage error relative to price.
+- The model is reasonably accurate. Accuracy ~ 84.0%.
+
+============================================================
+
+Backtest Results for ETH_USDT (Forecast Horizon: 7 days):
+MAE: 417.1614
+RMSE: 553.0502
+MAPE: 16.16% error
+Analysis:
+- MAE of 417.1614 means the predictions differ from actual prices by this amount on average.
+- RMSE of 553.0502 shows error magnitude (larger errors penalized more).
+- MAPE of 16.16% shows the average percentage error relative to price.
+- The model is reasonably accurate. Accuracy ~ 83.8%.
+
+============================================================
+
+Backtest Results for ETH_USDT (Forecast Horizon: 30 days):
+MAE: 425.8900
+RMSE: 569.5364
+MAPE: 16.57% error
+Analysis:
+- MAE of 425.8900 means the predictions differ from actual prices by this amount on average.
+- RMSE of 569.5364 shows error magnitude (larger errors penalized more).
+- MAPE of 16.57% shows the average percentage error relative to price.
+- The model is reasonably accurate. Accuracy ~ 83.4%.
+
+============================================================
+
+Backtest Results for BNB_USDT (Forecast Horizon: 1 days):
+MAE: 110.5746
+RMSE: 123.2539
+MAPE: 17.02% error
+Analysis:
+- MAE of 110.5746 means the predictions differ from actual prices by this amount on average.
+- RMSE of 123.2539 shows error magnitude (larger errors penalized more).
+- MAPE of 17.02% shows the average percentage error relative to price.
+- The model is reasonably accurate. Accuracy ~ 83.0%.
+
+============================================================
+
+Backtest Results for BNB_USDT (Forecast Horizon: 7 days):
+MAE: 111.1508
+RMSE: 124.1055
+MAPE: 17.10% error
+Analysis:
+- MAE of 111.1508 means the predictions differ from actual prices by this amount on average.
+- RMSE of 124.1055 shows error magnitude (larger errors penalized more).
+- MAPE of 17.10% shows the average percentage error relative to price.
+- The model is reasonably accurate. Accuracy ~ 82.9%.
+
+============================================================
+
+Backtest Results for BNB_USDT (Forecast Horizon: 30 days):
+MAE: 112.3040
+RMSE: 125.7369
+MAPE: 17.25% error
+Analysis:
+- MAE of 112.3040 means the predictions differ from actual prices by this amount on average.
+- RMSE of 125.7369 shows error magnitude (larger errors penalized more).
+- MAPE of 17.25% shows the average percentage error relative to price.
+- The model is reasonably accurate. Accuracy ~ 82.8%.
+
+============================================================
+
+Backtest Results for LTC_USDT (Forecast Horizon: 1 days):
+MAE: 28.8782
+RMSE: 33.0586
+MAPE: 37.89% error
+Analysis:
+- MAE of 28.8782 means the predictions differ from actual prices by this amount on average.
+- RMSE of 33.0586 shows error magnitude (larger errors penalized more).
+- MAPE of 37.89% shows the average percentage error relative to price.
+- The model is low accuracy. Accuracy ~ 62.1%.
+
+============================================================
+
+Backtest Results for LTC_USDT (Forecast Horizon: 7 days):
+MAE: 28.9056
+RMSE: 33.0971
+MAPE: 37.90% error
+Analysis:
+- MAE of 28.9056 means the predictions differ from actual prices by this amount on average.
+- RMSE of 33.0971 shows error magnitude (larger errors penalized more).
+- MAPE of 37.90% shows the average percentage error relative to price.
+- The model is low accuracy. Accuracy ~ 62.1%.
+
+============================================================
+
+Backtest Results for LTC_USDT (Forecast Horizon: 30 days):
+MAE: 28.8520
+RMSE: 33.1161
+MAPE: 37.75% error
+Analysis:
+- MAE of 28.8520 means the predictions differ from actual prices by this amount on average.
+- RMSE of 33.1161 shows error magnitude (larger errors penalized more).
+- MAPE of 37.75% shows the average percentage error relative to price.
+- The model is low accuracy. Accuracy ~ 62.3%.
+
+============================================================
+
+Backtest Results for DOT_USDT (Forecast Horizon: 1 days):
+MAE: 4.4851
+RMSE: 4.6005
+MAPE: 101.11% error
+Analysis:
+- MAE of 4.4851 means the predictions differ from actual prices by this amount on average.
+- RMSE of 4.6005 shows error magnitude (larger errors penalized more).
+- MAPE of 101.11% shows the average percentage error relative to price.
+- The model is unusable. Accuracy ~ 0.0%.
+
+============================================================
+
+Backtest Results for DOT_USDT (Forecast Horizon: 7 days):
+MAE: 4.4961
+RMSE: 4.6318
+MAPE: 101.61% error
+Analysis:
+- MAE of 4.4961 means the predictions differ from actual prices by this amount on average.
+- RMSE of 4.6318 shows error magnitude (larger errors penalized more).
+- MAPE of 101.61% shows the average percentage error relative to price.
+- The model is unusable. Accuracy ~ 0.0%.
+
+============================================================
+
+Backtest Results for DOT_USDT (Forecast Horizon: 30 days):
+MAE: 4.5957
+RMSE: 4.7701
+MAPE: 104.25% error
+Analysis:
+- MAE of 4.5957 means the predictions differ from actual prices by this amount on average.
+- RMSE of 4.7701 shows error magnitude (larger errors penalized more).
+- MAPE of 104.25% shows the average percentage error relative to price.
+- The model is unusable. Accuracy ~ 0.0%.
+
+============================================================
+
+Backtest Results for ADA_USDT (Forecast Horizon: 1 days):
+MAE: 0.3827
+RMSE: 0.4390
+MAPE: 82.08% error
+Analysis:
+- MAE of 0.3827 means the predictions differ from actual prices by this amount on average.
+- RMSE of 0.4390 shows error magnitude (larger errors penalized more).
+- MAPE of 82.08% shows the average percentage error relative to price.
+- The model is very poor. Accuracy ~ 17.9%.
+
+============================================================
+
+Backtest Results for ADA_USDT (Forecast Horizon: 7 days):
+MAE: 0.3821
+RMSE: 0.4385
+MAPE: 81.90% error
+Analysis:
+- MAE of 0.3821 means the predictions differ from actual prices by this amount on average.
+- RMSE of 0.4385 shows error magnitude (larger errors penalized more).
+- MAPE of 81.90% shows the average percentage error relative to price.
+- The model is very poor. Accuracy ~ 18.1%.
+
+============================================================
+
+Backtest Results for ADA_USDT (Forecast Horizon: 30 days):
+MAE: 0.3807
+RMSE: 0.4369
+MAPE: 81.17% error
+Analysis:
+- MAE of 0.3807 means the predictions differ from actual prices by this amount on average.
+- RMSE of 0.4369 shows error magnitude (larger errors penalized more).
+- MAPE of 81.17% shows the average percentage error relative to price.
+- The model is very poor. Accuracy ~ 18.8%.
+
+============================================================
+
+Backtest Results for BTC_USDT (Forecast Horizon: 1 days):
+MAE: 27871.2402
+RMSE: 32077.1035
+MAPE: 28.93% error
+Analysis:
+- MAE of 27871.2402 means the predictions differ from actual prices by this amount on average.
+- RMSE of 32077.1035 shows error magnitude (larger errors penalized more).
+- MAPE of 28.93% shows the average percentage error relative to price.
+- The model is moderately accurate. Accuracy ~ 71.1%.
+
+============================================================
+
+Backtest Results for BTC_USDT (Forecast Horizon: 7 days):
+MAE: 28039.6406
+RMSE: 32254.4023
+MAPE: 29.09% error
+Analysis:
+- MAE of 28039.6406 means the predictions differ from actual prices by this amount on average.
+- RMSE of 32254.4023 shows error magnitude (larger errors penalized more).
+- MAPE of 29.09% shows the average percentage error relative to price.
+- The model is moderately accurate. Accuracy ~ 70.9%.
+
+============================================================
+
+Backtest Results for BTC_USDT (Forecast Horizon: 30 days):
+MAE: 28628.4473
+RMSE: 32917.6367
+MAPE: 29.63% error
+Analysis:
+- MAE of 28628.4473 means the predictions differ from actual prices by this amount on average.
+- RMSE of 32917.6367 shows error magnitude (larger errors penalized more).
+- MAPE of 29.63% shows the average percentage error relative to price.
+- The model is moderately accurate. Accuracy ~ 70.4%.
+
+============================================================
+
+Backtest Results for SOL_USDT (Forecast Horizon: 1 days):
+MAE: 40.5705
+RMSE: 51.1406
+MAPE: 21.51% error
+Analysis:
+- MAE of 40.5705 means the predictions differ from actual prices by this amount on average.
+- RMSE of 51.1406 shows error magnitude (larger errors penalized more).
+- MAPE of 21.51% shows the average percentage error relative to price.
+- The model is moderately accurate. Accuracy ~ 78.5%.
+
+============================================================
+
+Backtest Results for SOL_USDT (Forecast Horizon: 7 days):
+MAE: 40.6763
+RMSE: 51.5559
+MAPE: 21.53% error
+Analysis:
+- MAE of 40.6763 means the predictions differ from actual prices by this amount on average.
+- RMSE of 51.5559 shows error magnitude (larger errors penalized more).
+- MAPE of 21.53% shows the average percentage error relative to price.
+- The model is moderately accurate. Accuracy ~ 78.5%.
+
+============================================================
+
+Backtest Results for SOL_USDT (Forecast Horizon: 30 days):
+MAE: 41.4262
+RMSE: 53.1571
+MAPE: 21.79% error
+Analysis:
+- MAE of 41.4262 means the predictions differ from actual prices by this amount on average.
+- RMSE of 53.1571 shows error magnitude (larger errors penalized more).
+- MAPE of 21.79% shows the average percentage error relative to price.
+- The model is moderately accurate. Accuracy ~ 78.2%.
+
+============================================================
+
+OVERALL AVERAGE MODEL ACCURACY: 51.25%
+============================================================

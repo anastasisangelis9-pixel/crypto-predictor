@@ -1,0 +1,1623 @@
+2025-07-28 23:07:32 UTC - Starting live data fetch...
+2025-07-28 23:07:35 UTC - Saved 2 candles for BTC/USDT
+2025-07-28 23:07:37 UTC - Saved 2 candles for ETH/USDT
+2025-07-28 23:07:39 UTC - Saved 2 candles for BNB/USDT
+2025-07-28 23:07:42 UTC - Saved 2 candles for XRP/USDT
+2025-07-28 23:07:48 UTC - Saved 2 candles for ADA/USDT
+2025-07-28 23:07:52 UTC - Saved 2 candles for DOGE/USDT
+2025-07-28 23:07:56 UTC - Saved 2 candles for SOL/USDT
+2025-07-28 23:07:59 UTC - Saved 2 candles for DOT/USDT
+2025-07-28 23:08:01 UTC - Saved 2 candles for MATIC/USDT
+2025-07-28 23:08:03 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+Processing live data for DOGE_USDT...
+Not enough live data to train model for DOGE_USDT (have 2, need at least 11)
+Keeping live data for DOGE_USDT (not enough to train yet).
+Processing live data for BNB_USDT...
+Not enough live data to train model for BNB_USDT (have 2, need at least 11)
+Keeping live data for BNB_USDT (not enough to train yet).
+Processing live data for BTC_USDT...
+Not enough live data to train model for BTC_USDT (have 2, need at least 11)
+Keeping live data for BTC_USDT (not enough to train yet).
+Processing live data for XRP_USDT...
+Not enough live data to train model for XRP_USDT (have 2, need at least 11)
+Keeping live data for XRP_USDT (not enough to train yet).
+Processing live data for ETH_USDT...
+Not enough live data to train model for ETH_USDT (have 2, need at least 11)
+Keeping live data for ETH_USDT (not enough to train yet).
+Processing live data for LTC_USDT...
+Not enough live data to train model for LTC_USDT (have 2, need at least 11)
+Keeping live data for LTC_USDT (not enough to train yet).
+Processing live data for MATIC_USDT...
+Not enough live data to train model for MATIC_USDT (have 2, need at least 11)
+Keeping live data for MATIC_USDT (not enough to train yet).
+Processing live data for SOL_USDT...
+Not enough live data to train model for SOL_USDT (have 2, need at least 11)
+Keeping live data for SOL_USDT (not enough to train yet).
+Processing live data for DOT_USDT...
+Not enough live data to train model for DOT_USDT (have 2, need at least 11)
+Keeping live data for DOT_USDT (not enough to train yet).
+Processing live data for ADA_USDT...
+Not enough live data to train model for ADA_USDT (have 2, need at least 11)
+Keeping live data for ADA_USDT (not enough to train yet).
+2025-07-29 00:07:45 UTC - Starting live data fetch...
+2025-07-29 00:07:47 UTC - Saved 2 candles for BTC/USDT
+2025-07-29 00:07:50 UTC - Saved 2 candles for ETH/USDT
+2025-07-29 00:07:53 UTC - Saved 2 candles for BNB/USDT
+2025-07-29 00:07:55 UTC - Saved 2 candles for XRP/USDT
+2025-07-29 00:07:58 UTC - Saved 2 candles for ADA/USDT
+2025-07-29 00:08:00 UTC - Saved 2 candles for DOGE/USDT
+2025-07-29 00:08:02 UTC - Saved 2 candles for SOL/USDT
+2025-07-29 00:08:05 UTC - Saved 2 candles for DOT/USDT
+2025-07-29 00:08:07 UTC - Saved 2 candles for MATIC/USDT
+2025-07-29 00:08:10 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-07-29 03:45:03 UTC - Starting live data fetch...
+2025-07-29 03:47:56 UTC - Error fetching BTC/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-07-29 03:47:56 UTC - No data saved for BTC/USDT (fetch failed)
+2025-07-29 03:47:58 UTC - Saved 2 candles for ETH/USDT
+2025-07-29 03:48:01 UTC - Saved 2 candles for BNB/USDT
+2025-07-29 03:48:03 UTC - Saved 2 candles for XRP/USDT
+2025-07-29 03:48:05 UTC - Saved 2 candles for ADA/USDT
+2025-07-29 03:48:07 UTC - Saved 2 candles for DOGE/USDT
+2025-07-29 03:48:10 UTC - Saved 2 candles for SOL/USDT
+2025-07-29 03:48:14 UTC - Saved 2 candles for DOT/USDT
+2025-07-29 03:48:17 UTC - Saved 2 candles for MATIC/USDT
+2025-07-29 03:48:19 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-07-29 18:19:01 UTC - Starting live data fetch...
+2025-07-29 18:19:04 UTC - Saved 2 candles for BTC/USDT
+2025-07-29 18:19:07 UTC - Saved 2 candles for ETH/USDT
+2025-07-29 18:19:10 UTC - Saved 2 candles for BNB/USDT
+2025-07-29 18:19:13 UTC - Saved 2 candles for XRP/USDT
+2025-07-29 18:19:15 UTC - Saved 2 candles for ADA/USDT
+2025-07-29 18:19:18 UTC - Saved 2 candles for DOGE/USDT
+2025-07-29 18:19:21 UTC - Saved 2 candles for SOL/USDT
+2025-07-29 18:19:23 UTC - Saved 2 candles for DOT/USDT
+2025-07-29 18:19:26 UTC - Saved 2 candles for MATIC/USDT
+2025-07-29 18:19:29 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-07-29 20:25:38 UTC - Starting live data fetch...
+2025-07-29 20:25:41 UTC - Saved 2 candles for BTC/USDT
+2025-07-29 20:25:43 UTC - Saved 2 candles for ETH/USDT
+2025-07-29 20:25:46 UTC - Saved 2 candles for BNB/USDT
+2025-07-29 20:25:48 UTC - Saved 2 candles for XRP/USDT
+2025-07-29 20:25:51 UTC - Saved 2 candles for ADA/USDT
+2025-07-29 20:25:53 UTC - Saved 2 candles for DOGE/USDT
+2025-07-29 20:25:55 UTC - Saved 2 candles for SOL/USDT
+2025-07-29 20:25:58 UTC - Saved 2 candles for DOT/USDT
+2025-07-29 20:26:01 UTC - Saved 2 candles for MATIC/USDT
+2025-07-29 20:26:03 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-07-29 21:25:51 UTC - Starting live data fetch...
+2025-07-29 21:25:53 UTC - Saved 2 candles for BTC/USDT
+2025-07-29 21:25:56 UTC - Saved 2 candles for ETH/USDT
+2025-07-29 21:25:58 UTC - Saved 2 candles for BNB/USDT
+2025-07-29 21:26:00 UTC - Saved 2 candles for XRP/USDT
+2025-07-29 21:26:03 UTC - Saved 2 candles for ADA/USDT
+2025-07-29 21:26:05 UTC - Saved 2 candles for DOGE/USDT
+2025-07-29 21:26:07 UTC - Saved 2 candles for SOL/USDT
+2025-07-29 21:26:10 UTC - Saved 2 candles for DOT/USDT
+2025-07-29 21:26:12 UTC - Saved 2 candles for MATIC/USDT
+2025-07-29 21:26:15 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-07-29 22:26:02 UTC - Starting live data fetch...
+2025-07-29 22:26:05 UTC - Saved 2 candles for BTC/USDT
+2025-07-29 22:26:07 UTC - Saved 2 candles for ETH/USDT
+2025-07-29 22:26:10 UTC - Saved 2 candles for BNB/USDT
+2025-07-29 22:26:12 UTC - Saved 2 candles for XRP/USDT
+2025-07-29 22:26:14 UTC - Saved 2 candles for ADA/USDT
+2025-07-29 22:26:18 UTC - Saved 2 candles for DOGE/USDT
+2025-07-29 22:26:20 UTC - Saved 2 candles for SOL/USDT
+2025-07-29 22:26:23 UTC - Saved 2 candles for DOT/USDT
+2025-07-29 22:26:25 UTC - Saved 2 candles for MATIC/USDT
+2025-07-29 22:26:27 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-07-31 11:29:31 UTC - Starting live data fetch...
+2025-07-31 11:29:34 UTC - Saved 2 candles for BTC/USDT
+2025-07-31 11:29:38 UTC - Saved 2 candles for ETH/USDT
+2025-07-31 11:29:41 UTC - Saved 2 candles for BNB/USDT
+2025-07-31 11:29:43 UTC - Saved 2 candles for XRP/USDT
+2025-07-31 11:29:47 UTC - Saved 2 candles for ADA/USDT
+2025-07-31 11:29:53 UTC - Saved 2 candles for DOGE/USDT
+2025-07-31 11:30:01 UTC - Saved 2 candles for SOL/USDT
+2025-07-31 11:30:05 UTC - Saved 2 candles for DOT/USDT
+2025-07-31 11:30:08 UTC - Saved 2 candles for MATIC/USDT
+2025-07-31 11:30:10 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-07-31 16:04:55 UTC - Starting live data fetch...
+2025-07-31 16:04:58 UTC - Saved 2 candles for BTC/USDT
+2025-07-31 16:05:00 UTC - Saved 2 candles for ETH/USDT
+2025-07-31 16:05:03 UTC - Saved 2 candles for BNB/USDT
+2025-07-31 16:05:05 UTC - Saved 2 candles for XRP/USDT
+2025-07-31 16:05:08 UTC - Saved 2 candles for ADA/USDT
+2025-07-31 16:05:10 UTC - Saved 2 candles for DOGE/USDT
+2025-07-31 16:05:13 UTC - Saved 2 candles for SOL/USDT
+2025-07-31 16:05:16 UTC - Saved 2 candles for DOT/USDT
+2025-07-31 16:05:19 UTC - Saved 2 candles for MATIC/USDT
+2025-07-31 16:05:21 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-01 14:26:21 UTC - Starting live data fetch...
+2025-08-01 14:26:27 UTC - Saved 2 candles for BTC/USDT
+2025-08-01 14:26:29 UTC - Saved 2 candles for ETH/USDT
+2025-08-01 14:26:32 UTC - Saved 2 candles for BNB/USDT
+2025-08-01 14:26:34 UTC - Saved 2 candles for XRP/USDT
+2025-08-01 14:26:36 UTC - Saved 2 candles for ADA/USDT
+2025-08-01 14:26:39 UTC - Saved 2 candles for DOGE/USDT
+2025-08-01 14:26:42 UTC - Saved 2 candles for SOL/USDT
+2025-08-01 14:26:44 UTC - Saved 2 candles for DOT/USDT
+2025-08-01 14:26:46 UTC - Saved 2 candles for MATIC/USDT
+2025-08-01 14:26:49 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-04 10:32:07 UTC - Starting live data fetch...
+2025-08-04 10:35:54 UTC - Saved 2 candles for BTC/USDT
+2025-08-04 10:35:57 UTC - Saved 2 candles for ETH/USDT
+2025-08-04 10:35:59 UTC - Saved 2 candles for BNB/USDT
+2025-08-04 10:36:04 UTC - Saved 2 candles for XRP/USDT
+2025-08-04 10:36:07 UTC - Saved 2 candles for ADA/USDT
+2025-08-04 10:36:10 UTC - Saved 2 candles for DOGE/USDT
+2025-08-04 10:36:13 UTC - Saved 2 candles for SOL/USDT
+2025-08-04 10:36:16 UTC - Saved 2 candles for DOT/USDT
+2025-08-04 10:36:19 UTC - Saved 2 candles for MATIC/USDT
+2025-08-04 10:36:22 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-04 15:52:07 UTC - Starting live data fetch...
+2025-08-04 15:52:11 UTC - Saved 2 candles for BTC/USDT
+2025-08-04 15:52:13 UTC - Saved 2 candles for ETH/USDT
+2025-08-04 15:52:15 UTC - Saved 2 candles for BNB/USDT
+2025-08-04 15:52:18 UTC - Saved 2 candles for XRP/USDT
+2025-08-04 15:52:20 UTC - Saved 2 candles for ADA/USDT
+2025-08-04 15:52:22 UTC - Saved 2 candles for DOGE/USDT
+2025-08-04 15:52:24 UTC - Saved 2 candles for SOL/USDT
+2025-08-04 15:52:27 UTC - Saved 2 candles for DOT/USDT
+2025-08-04 15:52:31 UTC - Saved 2 candles for MATIC/USDT
+2025-08-04 15:52:33 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+[2025-07-28 23:07:32.012165] Running get_live_prices.py...
+[2025-07-28 23:08:03.610807] Running predictions for BTC_USDT...
+[2025-07-28 23:08:04.660709] Running predictions for ETH_USDT...
+[2025-07-28 23:08:05.405027] Running predictions for BNB_USDT...
+[2025-07-28 23:08:06.147919] Running predictions for XRP_USDT...
+[2025-07-28 23:08:06.881580] Running predictions for ADA_USDT...
+[2025-07-28 23:08:07.591292] Running predictions for DOGE_USDT...
+[2025-07-28 23:08:08.281422] Running predictions for SOL_USDT...
+[2025-07-28 23:08:08.968471] Running predictions for DOT_USDT...
+[2025-07-28 23:08:09.683072] Running predictions for MATIC_USDT...
+[2025-07-28 23:08:10.391524] Running predictions for LTC_USDT...
+[2025-07-28 23:08:11.100453] Running retrain.py...
+[2025-07-29 00:07:44.648494] Running get_live_prices.py...
+[2025-07-29 00:08:10.272904] Running predictions for BTC_USDT...
+[2025-07-29 00:08:11.280480] Running predictions for ETH_USDT...
+[2025-07-29 00:08:12.001946] Running predictions for BNB_USDT...
+[2025-07-29 00:08:12.700785] Running predictions for XRP_USDT...
+[2025-07-29 00:08:13.393053] Running predictions for ADA_USDT...
+[2025-07-29 00:08:14.086843] Running predictions for DOGE_USDT...
+[2025-07-29 00:08:14.783284] Running predictions for SOL_USDT...
+[2025-07-29 00:08:15.486173] Running predictions for DOT_USDT...
+[2025-07-29 00:08:16.182280] Running predictions for MATIC_USDT...
+[2025-07-29 00:08:16.881127] Running predictions for LTC_USDT...
+[2025-07-29 03:45:02.737219] Running get_live_prices.py...
+[2025-07-29 03:48:19.530098] Running predictions for BTC_USDT...
+[2025-07-29 03:48:20.516929] Running predictions for ETH_USDT...
+[2025-07-29 03:48:21.218689] Running predictions for BNB_USDT...
+[2025-07-29 03:48:21.896670] Running predictions for XRP_USDT...
+[2025-07-29 03:48:22.562740] Running predictions for ADA_USDT...
+[2025-07-29 03:48:23.223208] Running predictions for DOGE_USDT...
+[2025-07-29 03:48:23.884353] Running predictions for SOL_USDT...
+[2025-07-29 03:48:24.550326] Running predictions for DOT_USDT...
+[2025-07-29 03:48:25.250541] Running predictions for MATIC_USDT...
+[2025-07-29 03:48:25.975178] Running predictions for LTC_USDT...
+[2025-07-29 18:19:00.344902] Running get_live_prices.py...
+[2025-07-29 18:19:29.306828] Running predictions for BTC_USDT...
+[2025-07-29 18:19:30.321698] Running predictions for ETH_USDT...
+[2025-07-29 18:19:31.041025] Running predictions for BNB_USDT...
+[2025-07-29 18:19:31.766324] Running predictions for XRP_USDT...
+[2025-07-29 18:19:32.472815] Running predictions for ADA_USDT...
+[2025-07-29 18:19:33.177013] Running predictions for DOGE_USDT...
+[2025-07-29 18:19:33.888102] Running predictions for SOL_USDT...
+[2025-07-29 18:19:34.591263] Running predictions for DOT_USDT...
+[2025-07-29 18:19:35.294291] Running predictions for MATIC_USDT...
+[2025-07-29 18:19:36.013113] Running predictions for LTC_USDT...
+[2025-07-29 20:25:38.034843] Running get_live_prices.py...
+[2025-07-29 20:26:03.709887] Running predictions for BTC_USDT...
+[2025-07-29 20:26:04.716212] Running predictions for ETH_USDT...
+[2025-07-29 20:26:05.413553] Running predictions for BNB_USDT...
+[2025-07-29 20:26:06.125546] Running predictions for XRP_USDT...
+[2025-07-29 20:26:06.832469] Running predictions for ADA_USDT...
+[2025-07-29 20:26:07.550574] Running predictions for DOGE_USDT...
+[2025-07-29 20:26:08.256654] Running predictions for SOL_USDT...
+[2025-07-29 20:26:08.961686] Running predictions for DOT_USDT...
+[2025-07-29 20:26:09.668834] Running predictions for MATIC_USDT...
+[2025-07-29 20:26:10.395840] Running predictions for LTC_USDT...
+[2025-07-29 21:25:50.686177] Running get_live_prices.py...
+[2025-07-29 21:26:15.456286] Running predictions for BTC_USDT...
+[2025-07-29 21:26:16.492616] Running predictions for ETH_USDT...
+[2025-07-29 21:26:17.203955] Running predictions for BNB_USDT...
+[2025-07-29 21:26:17.924975] Running predictions for XRP_USDT...
+[2025-07-29 21:26:18.634632] Running predictions for ADA_USDT...
+[2025-07-29 21:26:19.337603] Running predictions for DOGE_USDT...
+[2025-07-29 21:26:20.064672] Running predictions for SOL_USDT...
+[2025-07-29 21:26:20.777386] Running predictions for DOT_USDT...
+[2025-07-29 21:26:21.501764] Running predictions for MATIC_USDT...
+[2025-07-29 21:26:22.214546] Running predictions for LTC_USDT...
+[2025-07-29 22:26:02.063614] Running get_live_prices.py...
+[2025-07-29 22:26:28.019752] Running predictions for BTC_USDT...
+[2025-07-29 22:26:29.060630] Running predictions for ETH_USDT...
+[2025-07-29 22:26:29.843891] Running predictions for BNB_USDT...
+[2025-07-29 22:26:30.630987] Running predictions for XRP_USDT...
+[2025-07-29 22:26:31.408980] Running predictions for ADA_USDT...
+[2025-07-29 22:26:32.200874] Running predictions for DOGE_USDT...
+[2025-07-29 22:26:32.976116] Running predictions for SOL_USDT...
+[2025-07-29 22:26:33.748235] Running predictions for DOT_USDT...
+[2025-07-29 22:26:34.467899] Running predictions for MATIC_USDT...
+[2025-07-29 22:26:35.182618] Running predictions for LTC_USDT...
+[2025-07-31 11:29:31.111052] Running get_live_prices.py...
+[2025-07-31 11:30:10.765522] Running predictions for BTC_USDT...
+[2025-07-31 11:30:11.834283] Running predictions for ETH_USDT...
+[2025-07-31 11:30:12.504062] Running predictions for BNB_USDT...
+[2025-07-31 11:30:13.154289] Running predictions for XRP_USDT...
+[2025-07-31 11:30:13.814209] Running predictions for ADA_USDT...
+[2025-07-31 11:30:14.498806] Running predictions for DOGE_USDT...
+[2025-07-31 11:30:15.173476] Running predictions for SOL_USDT...
+[2025-07-31 11:30:15.843011] Running predictions for DOT_USDT...
+[2025-07-31 11:30:22.423360] Running predictions for MATIC_USDT...
+[2025-07-31 11:30:23.086330] Running predictions for LTC_USDT...
+[2025-07-31 16:04:54.602965] Running get_live_prices.py...
+[2025-07-31 16:05:21.916219] Running predictions for BTC_USDT...
+[2025-07-31 16:05:23.334513] Running predictions for ETH_USDT...
+[2025-07-31 16:05:24.270579] Running predictions for BNB_USDT...
+[2025-07-31 16:05:25.139471] Running predictions for XRP_USDT...
+[2025-07-31 16:05:26.028518] Running predictions for ADA_USDT...
+[2025-07-31 16:05:27.078704] Running predictions for DOGE_USDT...
+[2025-07-31 16:05:27.972255] Running predictions for SOL_USDT...
+[2025-07-31 16:05:29.031624] Running predictions for DOT_USDT...
+[2025-07-31 16:05:29.942455] Running predictions for MATIC_USDT...
+[2025-07-31 16:05:30.977100] Running predictions for LTC_USDT...
+[2025-08-01 14:26:20.993584] Running get_live_prices.py...
+[2025-08-01 14:26:49.585835] Running predictions for BTC_USDT...
+[2025-08-01 14:26:50.576719] Running predictions for ETH_USDT...
+[2025-08-01 14:26:51.279222] Running predictions for BNB_USDT...
+[2025-08-01 14:26:51.983824] Running predictions for XRP_USDT...
+[2025-08-01 14:26:52.692594] Running predictions for ADA_USDT...
+[2025-08-01 14:26:53.391727] Running predictions for DOGE_USDT...
+[2025-08-01 14:26:54.090355] Running predictions for SOL_USDT...
+[2025-08-01 14:26:54.769396] Running predictions for DOT_USDT...
+[2025-08-01 14:26:55.457350] Running predictions for MATIC_USDT...
+[2025-08-01 14:26:56.160811] Running predictions for LTC_USDT...
+[2025-08-04 10:32:07.298876] Running get_live_prices.py...
+[2025-08-04 10:36:22.111572] Running predictions for BTC_USDT...
+[2025-08-04 10:36:23.140940] Running predictions for ETH_USDT...
+[2025-08-04 10:36:23.831374] Running predictions for BNB_USDT...
+[2025-08-04 10:36:24.501653] Running predictions for XRP_USDT...
+[2025-08-04 10:36:25.163544] Running predictions for ADA_USDT...
+[2025-08-04 10:36:25.826767] Running predictions for DOGE_USDT...
+[2025-08-04 10:36:26.503840] Running predictions for SOL_USDT...
+[2025-08-04 10:36:27.171423] Running predictions for DOT_USDT...
+[2025-08-04 10:36:27.838037] Running predictions for MATIC_USDT...
+[2025-08-04 10:36:28.520098] Running predictions for LTC_USDT...
+[2025-08-04 15:52:07.380905] Running get_live_prices.py...
+[2025-08-04 15:52:33.689920] Running predictions for BTC_USDT...
+[2025-08-04 15:52:34.707494] Running predictions for ETH_USDT...
+[2025-08-04 15:52:35.377034] Running predictions for BNB_USDT...
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-07 17:00:58 UTC - Starting live data fetch...
+2025-08-07 17:01:01 UTC - Saved 2 candles for BTC/USDT
+2025-08-07 17:01:04 UTC - Saved 2 candles for ETH/USDT
+2025-08-07 17:01:08 UTC - Saved 2 candles for BNB/USDT
+2025-08-07 17:01:11 UTC - Saved 2 candles for XRP/USDT
+2025-08-07 17:01:14 UTC - Saved 2 candles for ADA/USDT
+2025-08-07 17:01:16 UTC - Saved 2 candles for DOGE/USDT
+2025-08-07 17:01:19 UTC - Saved 2 candles for SOL/USDT
+2025-08-07 17:01:21 UTC - Saved 2 candles for DOT/USDT
+2025-08-07 17:01:24 UTC - Saved 2 candles for MATIC/USDT
+2025-08-07 17:01:26 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-07 18:33:30 UTC - Starting live data fetch...
+2025-08-07 18:33:34 UTC - Saved 2 candles for BTC/USDT
+2025-08-07 18:33:37 UTC - Saved 2 candles for ETH/USDT
+2025-08-07 18:33:42 UTC - Saved 2 candles for BNB/USDT
+2025-08-07 18:33:45 UTC - Saved 2 candles for XRP/USDT
+2025-08-07 18:33:47 UTC - Saved 2 candles for ADA/USDT
+2025-08-07 18:33:49 UTC - Saved 2 candles for DOGE/USDT
+2025-08-07 18:33:51 UTC - Saved 2 candles for SOL/USDT
+2025-08-07 18:33:54 UTC - Saved 2 candles for DOT/USDT
+2025-08-07 18:33:56 UTC - Saved 2 candles for MATIC/USDT
+2025-08-07 18:33:59 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-07 19:33:57 UTC - Starting live data fetch...
+2025-08-07 19:33:59 UTC - Saved 2 candles for BTC/USDT
+2025-08-07 19:34:02 UTC - Saved 2 candles for ETH/USDT
+2025-08-07 19:34:04 UTC - Saved 2 candles for BNB/USDT
+2025-08-07 19:34:06 UTC - Saved 2 candles for XRP/USDT
+2025-08-07 19:34:08 UTC - Saved 2 candles for ADA/USDT
+2025-08-07 19:34:11 UTC - Saved 2 candles for DOGE/USDT
+2025-08-07 19:34:13 UTC - Saved 2 candles for SOL/USDT
+2025-08-07 19:34:15 UTC - Saved 2 candles for DOT/USDT
+2025-08-07 19:34:18 UTC - Saved 2 candles for MATIC/USDT
+2025-08-07 19:34:20 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-09 14:33:06 UTC - Starting live data fetch...
+2025-08-09 14:33:10 UTC - Saved 2 candles for BTC/USDT
+2025-08-09 14:33:13 UTC - Saved 2 candles for ETH/USDT
+2025-08-09 14:33:16 UTC - Saved 2 candles for BNB/USDT
+2025-08-09 14:33:19 UTC - Saved 2 candles for XRP/USDT
+2025-08-09 14:33:22 UTC - Saved 2 candles for ADA/USDT
+2025-08-09 14:33:25 UTC - Saved 2 candles for DOGE/USDT
+2025-08-09 14:33:28 UTC - Saved 2 candles for SOL/USDT
+2025-08-09 14:33:31 UTC - Saved 2 candles for DOT/USDT
+2025-08-09 14:33:34 UTC - Saved 2 candles for MATIC/USDT
+2025-08-09 14:33:38 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+Processing live data for DOGE_USDT...
+Loaded existing model for DOGE_USDT
+Epoch 1/10, Loss: 0.431865
+Epoch 2/10, Loss: 0.389536
+Epoch 3/10, Loss: 0.344694
+Epoch 4/10, Loss: 0.297353
+Epoch 5/10, Loss: 0.247746
+Epoch 6/10, Loss: 0.196516
+Epoch 7/10, Loss: 0.144963
+Epoch 8/10, Loss: 0.095348
+Epoch 9/10, Loss: 0.051277
+Epoch 10/10, Loss: 0.018019
+Model saved for DOGE_USDT at /Users/anastangelis/Desktop/Crypto Predict/models/DOGE_USDT_model.pt
+Archived and cleared live data for DOGE_USDT
+Processing live data for BNB_USDT...
+Loaded existing model for BNB_USDT
+Epoch 1/10, Loss: 0.535587
+Epoch 2/10, Loss: 0.484137
+Epoch 3/10, Loss: 0.429532
+Epoch 4/10, Loss: 0.371639
+Epoch 5/10, Loss: 0.310690
+Epoch 6/10, Loss: 0.247446
+Epoch 7/10, Loss: 0.183433
+Epoch 8/10, Loss: 0.121364
+Epoch 9/10, Loss: 0.065663
+Epoch 10/10, Loss: 0.022887
+Model saved for BNB_USDT at /Users/anastangelis/Desktop/Crypto Predict/models/BNB_USDT_model.pt
+Archived and cleared live data for BNB_USDT
+Processing live data for BTC_USDT...
+Loaded existing model for BTC_USDT
+Epoch 1/10, Loss: 0.766046
+Epoch 2/10, Loss: 0.700853
+Epoch 3/10, Loss: 0.630572
+Epoch 4/10, Loss: 0.554923
+Epoch 5/10, Loss: 0.474053
+Epoch 6/10, Loss: 0.388710
+Epoch 7/10, Loss: 0.300537
+Epoch 8/10, Loss: 0.212560
+Epoch 9/10, Loss: 0.129811
+Epoch 10/10, Loss: 0.059924
+Model saved for BTC_USDT at /Users/anastangelis/Desktop/Crypto Predict/models/BTC_USDT_model.pt
+Archived and cleared live data for BTC_USDT
+Processing live data for XRP_USDT...
+Loaded existing model for XRP_USDT
+Epoch 1/10, Loss: 0.553931
+Epoch 2/10, Loss: 0.495457
+Epoch 3/10, Loss: 0.433470
+Epoch 4/10, Loss: 0.368061
+Epoch 5/10, Loss: 0.299713
+Epoch 6/10, Loss: 0.229603
+Epoch 7/10, Loss: 0.160020
+Epoch 8/10, Loss: 0.094975
+Epoch 9/10, Loss: 0.040930
+Epoch 10/10, Loss: 0.007137
+Model saved for XRP_USDT at /Users/anastangelis/Desktop/Crypto Predict/models/XRP_USDT_model.pt
+Archived and cleared live data for XRP_USDT
+Processing live data for ETH_USDT...
+Loaded existing model for ETH_USDT
+Epoch 1/10, Loss: 0.807216
+Epoch 2/10, Loss: 0.753197
+Epoch 3/10, Loss: 0.694871
+Epoch 4/10, Loss: 0.631684
+Epoch 5/10, Loss: 0.563175
+Epoch 6/10, Loss: 0.489110
+Epoch 7/10, Loss: 0.409711
+Epoch 8/10, Loss: 0.326007
+Epoch 9/10, Loss: 0.240322
+Epoch 10/10, Loss: 0.156905
+Model saved for ETH_USDT at /Users/anastangelis/Desktop/Crypto Predict/models/ETH_USDT_model.pt
+Archived and cleared live data for ETH_USDT
+Processing live data for LTC_USDT...
+Loaded existing model for LTC_USDT
+Epoch 1/10, Loss: 0.749702
+Epoch 2/10, Loss: 0.697080
+Epoch 3/10, Loss: 0.640251
+Epoch 4/10, Loss: 0.578781
+Epoch 5/10, Loss: 0.512322
+Epoch 6/10, Loss: 0.440725
+Epoch 7/10, Loss: 0.364292
+Epoch 8/10, Loss: 0.284172
+Epoch 9/10, Loss: 0.202904
+Epoch 10/10, Loss: 0.125119
+Model saved for LTC_USDT at /Users/anastangelis/Desktop/Crypto Predict/models/LTC_USDT_model.pt
+Archived and cleared live data for LTC_USDT
+Processing live data for MATIC_USDT...
+Loaded existing model for MATIC_USDT
+Epoch 1/10, Loss: 0.416146
+Epoch 2/10, Loss: 0.360873
+Epoch 3/10, Loss: 0.303000
+Epoch 4/10, Loss: 0.242936
+Epoch 5/10, Loss: 0.181810
+Epoch 6/10, Loss: 0.121874
+Epoch 7/10, Loss: 0.067093
+Epoch 8/10, Loss: 0.023880
+Epoch 9/10, Loss: 0.001294
+Epoch 10/10, Loss: 0.007984
+Model saved for MATIC_USDT at /Users/anastangelis/Desktop/Crypto Predict/models/MATIC_USDT_model.pt
+Archived and cleared live data for MATIC_USDT
+Processing live data for SOL_USDT...
+Loaded existing model for SOL_USDT
+Epoch 1/10, Loss: 0.446224
+Epoch 2/10, Loss: 0.396541
+Epoch 3/10, Loss: 0.343172
+Epoch 4/10, Loss: 0.286298
+Epoch 5/10, Loss: 0.226524
+Epoch 6/10, Loss: 0.165273
+Epoch 7/10, Loss: 0.105367
+Epoch 8/10, Loss: 0.051881
+Epoch 9/10, Loss: 0.013168
+Epoch 10/10, Loss: 0.000870
+Model saved for SOL_USDT at /Users/anastangelis/Desktop/Crypto Predict/models/SOL_USDT_model.pt
+Archived and cleared live data for SOL_USDT
+Processing live data for DOT_USDT...
+Loaded existing model for DOT_USDT
+Epoch 1/10, Loss: 0.622082
+Epoch 2/10, Loss: 0.569913
+Epoch 3/10, Loss: 0.515207
+Epoch 4/10, Loss: 0.457812
+Epoch 5/10, Loss: 0.397730
+Epoch 6/10, Loss: 0.335173
+Epoch 7/10, Loss: 0.270720
+Epoch 8/10, Loss: 0.205586
+Epoch 9/10, Loss: 0.142005
+Epoch 10/10, Loss: 0.083675
+Model saved for DOT_USDT at /Users/anastangelis/Desktop/Crypto Predict/models/DOT_USDT_model.pt
+Archived and cleared live data for DOT_USDT
+Processing live data for ADA_USDT...
+Loaded existing model for ADA_USDT
+Epoch 1/10, Loss: 0.672644
+Epoch 2/10, Loss: 0.614780
+Epoch 3/10, Loss: 0.554022
+Epoch 4/10, Loss: 0.490107
+Epoch 5/10, Loss: 0.422931
+Epoch 6/10, Loss: 0.352724
+Epoch 7/10, Loss: 0.280222
+Epoch 8/10, Loss: 0.207021
+Epoch 9/10, Loss: 0.136126
+Epoch 10/10, Loss: 0.072618
+Model saved for ADA_USDT at /Users/anastangelis/Desktop/Crypto Predict/models/ADA_USDT_model.pt
+Archived and cleared live data for ADA_USDT
+2025-08-09 15:48:31 UTC - Starting live data fetch...
+2025-08-09 15:48:34 UTC - Saved 2 candles for BTC/USDT
+2025-08-09 15:48:36 UTC - Saved 2 candles for ETH/USDT
+2025-08-09 15:48:39 UTC - Saved 2 candles for BNB/USDT
+2025-08-09 15:48:41 UTC - Saved 2 candles for XRP/USDT
+2025-08-09 15:48:44 UTC - Saved 2 candles for ADA/USDT
+2025-08-09 15:48:46 UTC - Saved 2 candles for DOGE/USDT
+2025-08-09 15:48:49 UTC - Saved 2 candles for SOL/USDT
+2025-08-09 15:48:51 UTC - Saved 2 candles for DOT/USDT
+2025-08-09 15:48:55 UTC - Saved 2 candles for MATIC/USDT
+2025-08-09 15:48:57 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-10 11:32:29 UTC - Starting live data fetch...
+2025-08-10 11:32:32 UTC - Saved 2 candles for BTC/USDT
+2025-08-10 11:32:35 UTC - Saved 2 candles for ETH/USDT
+2025-08-10 11:32:37 UTC - Saved 2 candles for BNB/USDT
+2025-08-10 11:32:39 UTC - Saved 2 candles for XRP/USDT
+2025-08-10 11:32:42 UTC - Saved 2 candles for ADA/USDT
+2025-08-10 11:32:44 UTC - Saved 2 candles for DOGE/USDT
+2025-08-10 11:32:46 UTC - Saved 2 candles for SOL/USDT
+2025-08-10 11:32:49 UTC - Saved 2 candles for DOT/USDT
+2025-08-10 11:32:53 UTC - Saved 2 candles for MATIC/USDT
+2025-08-10 11:32:57 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-10 13:18:13 UTC - Starting live data fetch...
+2025-08-10 13:18:22 UTC - Saved 2 candles for BTC/USDT
+2025-08-10 13:18:29 UTC - Saved 2 candles for ETH/USDT
+2025-08-10 13:18:36 UTC - Saved 2 candles for BNB/USDT
+2025-08-10 13:18:45 UTC - Saved 2 candles for XRP/USDT
+2025-08-10 13:18:55 UTC - Saved 2 candles for ADA/USDT
+2025-08-10 13:19:03 UTC - Saved 2 candles for DOGE/USDT
+2025-08-10 13:19:08 UTC - Saved 2 candles for SOL/USDT
+2025-08-10 13:19:15 UTC - Saved 2 candles for DOT/USDT
+2025-08-10 13:19:20 UTC - Saved 2 candles for MATIC/USDT
+2025-08-10 13:19:26 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-10 14:56:25 UTC - Starting live data fetch...
+2025-08-10 14:56:28 UTC - Saved 2 candles for BTC/USDT
+2025-08-10 14:56:31 UTC - Saved 2 candles for ETH/USDT
+2025-08-10 14:56:33 UTC - Saved 2 candles for BNB/USDT
+2025-08-10 14:56:36 UTC - Saved 2 candles for XRP/USDT
+2025-08-10 14:56:38 UTC - Saved 2 candles for ADA/USDT
+2025-08-10 14:56:41 UTC - Saved 2 candles for DOGE/USDT
+2025-08-10 14:56:44 UTC - Saved 2 candles for SOL/USDT
+2025-08-10 14:56:46 UTC - Saved 2 candles for DOT/USDT
+2025-08-10 14:56:49 UTC - Saved 2 candles for MATIC/USDT
+2025-08-10 14:56:51 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-10 17:05:44 UTC - Starting live data fetch...
+2025-08-10 17:05:47 UTC - Saved 2 candles for BTC/USDT
+2025-08-10 17:05:51 UTC - Saved 2 candles for ETH/USDT
+2025-08-10 17:05:54 UTC - Saved 2 candles for BNB/USDT
+2025-08-10 17:05:57 UTC - Saved 2 candles for XRP/USDT
+2025-08-10 17:06:01 UTC - Saved 2 candles for ADA/USDT
+2025-08-10 17:06:05 UTC - Saved 2 candles for DOGE/USDT
+2025-08-10 17:06:09 UTC - Saved 2 candles for SOL/USDT
+2025-08-10 17:06:13 UTC - Saved 2 candles for DOT/USDT
+2025-08-10 17:06:16 UTC - Saved 2 candles for MATIC/USDT
+2025-08-10 17:06:19 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-10 18:05:59 UTC - Starting live data fetch...
+2025-08-10 18:06:03 UTC - Saved 2 candles for BTC/USDT
+2025-08-10 18:06:05 UTC - Saved 2 candles for ETH/USDT
+2025-08-10 18:06:09 UTC - Saved 2 candles for BNB/USDT
+2025-08-10 18:06:11 UTC - Saved 2 candles for XRP/USDT
+2025-08-10 18:06:14 UTC - Saved 2 candles for ADA/USDT
+2025-08-10 18:06:17 UTC - Saved 2 candles for DOGE/USDT
+2025-08-10 18:06:19 UTC - Saved 2 candles for SOL/USDT
+2025-08-10 18:06:22 UTC - Saved 2 candles for DOT/USDT
+2025-08-10 18:06:24 UTC - Saved 2 candles for MATIC/USDT
+2025-08-10 18:06:26 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-10 19:06:21 UTC - Starting live data fetch...
+2025-08-10 19:06:24 UTC - Saved 2 candles for BTC/USDT
+2025-08-10 19:06:27 UTC - Saved 2 candles for ETH/USDT
+2025-08-10 19:06:29 UTC - Saved 2 candles for BNB/USDT
+2025-08-10 19:06:31 UTC - Saved 2 candles for XRP/USDT
+2025-08-10 19:06:34 UTC - Saved 2 candles for ADA/USDT
+2025-08-10 19:06:36 UTC - Saved 2 candles for DOGE/USDT
+2025-08-10 19:06:39 UTC - Saved 2 candles for SOL/USDT
+2025-08-10 19:06:41 UTC - Saved 2 candles for DOT/USDT
+2025-08-10 19:06:44 UTC - Saved 2 candles for MATIC/USDT
+2025-08-10 19:06:47 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+[2025-08-04 15:52:36.039279] Running predictions for XRP_USDT...
+[2025-08-04 15:52:36.700676] Running predictions for ADA_USDT...
+[2025-08-04 15:52:37.372383] Running predictions for DOGE_USDT...
+[2025-08-04 15:52:38.047084] Running predictions for SOL_USDT...
+[2025-08-04 15:52:38.714157] Running predictions for DOT_USDT...
+[2025-08-04 15:52:39.379456] Running predictions for MATIC_USDT...
+[2025-08-04 15:52:40.039112] Running predictions for LTC_USDT...
+[2025-08-07 17:00:57.607696] Running get_live_prices.py...
+[2025-08-07 17:01:26.754524] Running predictions for BTC_USDT...
+[2025-08-07 17:01:28.088990] Running predictions for ETH_USDT...
+[2025-08-07 17:01:29.309296] Running predictions for BNB_USDT...
+[2025-08-07 17:01:30.871119] Running predictions for XRP_USDT...
+[2025-08-07 17:01:32.555134] Running predictions for ADA_USDT...
+[2025-08-07 17:01:33.970631] Running predictions for DOGE_USDT...
+[2025-08-07 17:01:35.420054] Running predictions for SOL_USDT...
+[2025-08-07 17:01:36.951200] Running predictions for DOT_USDT...
+[2025-08-07 17:01:38.422707] Running predictions for MATIC_USDT...
+[2025-08-07 17:01:39.873110] Running predictions for LTC_USDT...
+[2025-08-07 18:33:27.866647] Running get_live_prices.py...
+[2025-08-07 18:33:59.336868] Running predictions for BTC_USDT...
+[2025-08-07 18:34:02.143313] Running predictions for ETH_USDT...
+[2025-08-07 18:34:02.876374] Running predictions for BNB_USDT...
+[2025-08-07 18:34:03.636781] Running predictions for XRP_USDT...
+[2025-08-07 18:34:04.383406] Running predictions for ADA_USDT...
+[2025-08-07 18:34:05.096800] Running predictions for DOGE_USDT...
+[2025-08-07 18:34:05.781637] Running predictions for SOL_USDT...
+[2025-08-07 18:34:06.453507] Running predictions for DOT_USDT...
+[2025-08-07 18:34:07.119457] Running predictions for MATIC_USDT...
+[2025-08-07 18:34:07.807309] Running predictions for LTC_USDT...
+[2025-08-07 19:33:56.443471] Running get_live_prices.py...
+[2025-08-07 19:34:20.591840] Running predictions for BTC_USDT...
+[2025-08-07 19:34:21.609928] Running predictions for ETH_USDT...
+[2025-08-07 19:34:22.281571] Running predictions for BNB_USDT...
+[2025-08-07 19:34:22.945568] Running predictions for XRP_USDT...
+[2025-08-07 19:34:23.604706] Running predictions for ADA_USDT...
+[2025-08-07 19:34:24.277114] Running predictions for DOGE_USDT...
+[2025-08-07 19:34:24.932348] Running predictions for SOL_USDT...
+[2025-08-07 19:34:25.601007] Running predictions for DOT_USDT...
+[2025-08-07 19:34:26.272208] Running predictions for MATIC_USDT...
+[2025-08-07 19:34:26.928543] Running predictions for LTC_USDT...
+[2025-08-09 14:33:06.176141] Running get_live_prices.py...
+[2025-08-09 14:33:38.738659] Running predictions for BTC_USDT...
+[2025-08-09 14:33:39.759076] Running predictions for ETH_USDT...
+[2025-08-09 14:33:40.455479] Running predictions for BNB_USDT...
+[2025-08-09 14:33:41.161830] Running predictions for XRP_USDT...
+[2025-08-09 14:33:41.871639] Running predictions for ADA_USDT...
+[2025-08-09 14:33:42.569699] Running predictions for DOGE_USDT...
+[2025-08-09 14:33:43.272620] Running predictions for SOL_USDT...
+[2025-08-09 14:33:43.972994] Running predictions for DOT_USDT...
+[2025-08-09 14:33:44.685929] Running predictions for MATIC_USDT...
+[2025-08-09 14:33:45.402542] Running predictions for LTC_USDT...
+[2025-08-09 14:33:46.138556] Running retrain.py...
+[2025-08-09 15:48:30.487045] Running get_live_prices.py...
+[2025-08-09 15:48:57.818370] Running predictions for BTC_USDT...
+[2025-08-09 15:48:58.964298] Running predictions for ETH_USDT...
+[2025-08-09 15:48:59.768200] Running predictions for BNB_USDT...
+[2025-08-09 15:49:00.569112] Running predictions for XRP_USDT...
+[2025-08-09 15:49:01.355610] Running predictions for ADA_USDT...
+[2025-08-09 15:49:02.134095] Running predictions for DOGE_USDT...
+[2025-08-09 15:49:02.928156] Running predictions for SOL_USDT...
+[2025-08-09 15:49:03.717170] Running predictions for DOT_USDT...
+[2025-08-09 15:49:04.520393] Running predictions for MATIC_USDT...
+[2025-08-09 15:49:05.339428] Running predictions for LTC_USDT...
+[2025-08-10 11:32:29.266168] Running get_live_prices.py...
+[2025-08-10 11:32:57.287119] Running predictions for BTC_USDT...
+[2025-08-10 11:32:58.281613] Running predictions for ETH_USDT...
+[2025-08-10 11:32:58.947451] Running predictions for BNB_USDT...
+[2025-08-10 11:32:59.608509] Running predictions for XRP_USDT...
+[2025-08-10 11:33:00.286192] Running predictions for ADA_USDT...
+[2025-08-10 11:33:00.952095] Running predictions for DOGE_USDT...
+[2025-08-10 11:33:01.611119] Running predictions for SOL_USDT...
+[2025-08-10 11:33:02.276059] Running predictions for DOT_USDT...
+[2025-08-10 11:33:02.955748] Running predictions for MATIC_USDT...
+[2025-08-10 11:33:03.619321] Running predictions for LTC_USDT...
+[2025-08-10 13:18:10.650756] Running get_live_prices.py...
+[2025-08-10 13:19:27.264067] Running predictions for BTC_USDT...
+[2025-08-10 13:19:32.347856] Running predictions for ETH_USDT...
+[2025-08-10 13:19:37.370808] Running predictions for BNB_USDT...
+[2025-08-10 13:19:41.918970] Running predictions for XRP_USDT...
+[2025-08-10 13:19:46.678258] Running predictions for ADA_USDT...
+[2025-08-10 13:19:50.954631] Running predictions for DOGE_USDT...
+[2025-08-10 13:19:54.751814] Running predictions for SOL_USDT...
+[2025-08-10 13:19:59.564026] Running predictions for DOT_USDT...
+[2025-08-10 13:20:04.691503] Running predictions for MATIC_USDT...
+[2025-08-10 13:20:09.486619] Running predictions for LTC_USDT...
+[2025-08-10 14:56:25.010762] Running get_live_prices.py...
+[2025-08-10 14:56:51.521381] Running predictions for BTC_USDT...
+[2025-08-10 14:56:52.566613] Running predictions for ETH_USDT...
+[2025-08-10 14:56:53.309012] Running predictions for BNB_USDT...
+[2025-08-10 14:56:54.035608] Running predictions for XRP_USDT...
+[2025-08-10 14:56:54.716104] Running predictions for ADA_USDT...
+[2025-08-10 14:56:55.415600] Running predictions for DOGE_USDT...
+[2025-08-10 14:56:56.101416] Running predictions for SOL_USDT...
+[2025-08-10 14:56:56.783745] Running predictions for DOT_USDT...
+[2025-08-10 14:56:57.453869] Running predictions for MATIC_USDT...
+[2025-08-10 14:56:58.137253] Running predictions for LTC_USDT...
+[2025-08-10 17:05:43.658222] Running get_live_prices.py...
+[2025-08-10 17:06:19.940684] Running predictions for BTC_USDT...
+[2025-08-10 17:06:20.999687] Running predictions for ETH_USDT...
+[2025-08-10 17:06:21.721284] Running predictions for BNB_USDT...
+[2025-08-10 17:06:22.438417] Running predictions for XRP_USDT...
+[2025-08-10 17:06:23.137781] Running predictions for ADA_USDT...
+[2025-08-10 17:06:23.850265] Running predictions for DOGE_USDT...
+[2025-08-10 17:06:24.582189] Running predictions for SOL_USDT...
+[2025-08-10 17:06:25.297970] Running predictions for DOT_USDT...
+[2025-08-10 17:06:26.002875] Running predictions for MATIC_USDT...
+[2025-08-10 17:06:26.722903] Running predictions for LTC_USDT...
+[2025-08-10 18:05:58.961439] Running get_live_prices.py...
+[2025-08-10 18:06:26.855839] Running predictions for BTC_USDT...
+[2025-08-10 18:06:27.882562] Running predictions for ETH_USDT...
+[2025-08-10 18:06:28.584533] Running predictions for BNB_USDT...
+[2025-08-10 18:06:29.265851] Running predictions for XRP_USDT...
+[2025-08-10 18:06:30.004833] Running predictions for ADA_USDT...
+[2025-08-10 18:06:30.716772] Running predictions for DOGE_USDT...
+[2025-08-10 18:06:31.411813] Running predictions for SOL_USDT...
+[2025-08-10 18:06:32.113951] Running predictions for DOT_USDT...
+[2025-08-10 18:06:32.801129] Running predictions for MATIC_USDT...
+[2025-08-10 18:06:33.495365] Running predictions for LTC_USDT...
+[2025-08-10 19:06:20.858596] Running get_live_prices.py...
+[2025-08-10 19:06:47.096993] Running predictions for BTC_USDT...
+[2025-08-10 19:06:48.113715] Running predictions for ETH_USDT...
+[2025-08-10 19:06:48.804904] Running predictions for BNB_USDT...
+[2025-08-10 19:06:49.505520] Running predictions for XRP_USDT...
+[2025-08-10 19:06:50.196744] Running predictions for ADA_USDT...
+[2025-08-10 19:06:50.887475] Running predictions for DOGE_USDT...
+[2025-08-10 19:06:51.599449] Running predictions for SOL_USDT...
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-10 20:06:44 UTC - Starting live data fetch...
+2025-08-10 20:06:48 UTC - Saved 2 candles for BTC/USDT
+2025-08-10 20:06:51 UTC - Saved 2 candles for ETH/USDT
+2025-08-10 20:06:54 UTC - Saved 2 candles for BNB/USDT
+2025-08-10 20:06:57 UTC - Saved 2 candles for XRP/USDT
+2025-08-10 20:07:00 UTC - Saved 2 candles for ADA/USDT
+2025-08-10 20:07:02 UTC - Saved 2 candles for DOGE/USDT
+2025-08-10 20:07:05 UTC - Saved 2 candles for SOL/USDT
+2025-08-10 20:07:08 UTC - Saved 2 candles for DOT/USDT
+2025-08-10 20:07:10 UTC - Saved 2 candles for MATIC/USDT
+2025-08-10 20:07:13 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-10 21:07:08 UTC - Starting live data fetch...
+2025-08-10 21:07:13 UTC - Saved 2 candles for BTC/USDT
+2025-08-10 21:07:15 UTC - Saved 2 candles for ETH/USDT
+2025-08-10 21:07:18 UTC - Saved 2 candles for BNB/USDT
+2025-08-10 21:07:22 UTC - Saved 2 candles for XRP/USDT
+2025-08-10 21:07:25 UTC - Saved 2 candles for ADA/USDT
+2025-08-10 21:07:28 UTC - Saved 2 candles for DOGE/USDT
+2025-08-10 21:07:31 UTC - Saved 2 candles for SOL/USDT
+2025-08-10 21:07:34 UTC - Saved 2 candles for DOT/USDT
+2025-08-10 21:07:36 UTC - Saved 2 candles for MATIC/USDT
+2025-08-10 21:07:40 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-11 10:41:22 UTC - Starting live data fetch...
+2025-08-11 10:56:22 UTC - Error fetching BTC/USDT: binance GET https://api.binance.com/api/v3/klines?interval=30m&limit=2&symbol=BTCUSDT
+2025-08-11 10:56:22 UTC - No data saved for BTC/USDT (fetch failed)
+2025-08-11 11:28:42 UTC - Error fetching ETH/USDT: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2025-08-11 11:28:42 UTC - No data saved for ETH/USDT (fetch failed)
+2025-08-11 11:46:37 UTC - Error fetching BNB/USDT: binance GET https://fapi.binance.com/fapi/v1/exchangeInfo
+2025-08-11 11:46:37 UTC - No data saved for BNB/USDT (fetch failed)
+2025-08-11 11:46:40 UTC - Saved 2 candles for XRP/USDT
+2025-08-11 11:48:31 UTC - Saved 2 candles for ADA/USDT
+2025-08-11 11:48:34 UTC - Saved 2 candles for DOGE/USDT
+2025-08-11 11:48:37 UTC - Saved 2 candles for SOL/USDT
+2025-08-11 11:48:40 UTC - Saved 2 candles for DOT/USDT
+2025-08-11 11:48:42 UTC - Saved 2 candles for MATIC/USDT
+2025-08-11 11:48:45 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-11 11:48:52 UTC - Starting live data fetch...
+2025-08-11 11:48:55 UTC - Saved 2 candles for BTC/USDT
+2025-08-11 11:48:57 UTC - Saved 2 candles for ETH/USDT
+2025-08-11 11:49:00 UTC - Saved 2 candles for BNB/USDT
+2025-08-11 11:49:03 UTC - Saved 2 candles for XRP/USDT
+2025-08-11 11:49:06 UTC - Saved 2 candles for ADA/USDT
+2025-08-11 11:49:09 UTC - Saved 2 candles for DOGE/USDT
+2025-08-11 11:49:11 UTC - Saved 2 candles for SOL/USDT
+2025-08-11 11:49:14 UTC - Saved 2 candles for DOT/USDT
+2025-08-11 11:49:19 UTC - Saved 2 candles for MATIC/USDT
+2025-08-11 11:49:24 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+Loading model for BNB_USDT
+Loading price data for BNB_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
+Loading model for XRP_USDT
+Loading price data for XRP_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/XRP_USDT_predictions.txt
+Loading model for ADA_USDT
+Loading price data for ADA_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ADA_USDT_predictions.txt
+Loading model for DOGE_USDT
+Loading price data for DOGE_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOGE_USDT_predictions.txt
+Loading model for SOL_USDT
+Loading price data for SOL_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/SOL_USDT_predictions.txt
+Loading model for DOT_USDT
+Loading price data for DOT_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/DOT_USDT_predictions.txt
+Loading model for MATIC_USDT
+Loading price data for MATIC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATIC_USDT_predictions.txt
+Loading model for LTC_USDT
+Loading price data for LTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
+2025-08-11 15:44:23 UTC - Starting live data fetch...
+2025-08-11 15:44:31 UTC - Saved 2 candles for BTC/USDT
+2025-08-11 15:44:39 UTC - Saved 2 candles for ETH/USDT
+2025-08-11 15:44:49 UTC - Saved 2 candles for BNB/USDT
+2025-08-11 15:44:55 UTC - Saved 2 candles for XRP/USDT
+2025-08-11 15:45:01 UTC - Saved 2 candles for ADA/USDT
+2025-08-11 15:45:05 UTC - Saved 2 candles for DOGE/USDT
+2025-08-11 15:45:13 UTC - Saved 2 candles for SOL/USDT
+2025-08-11 15:45:18 UTC - Saved 2 candles for DOT/USDT
+2025-08-11 15:45:23 UTC - Saved 2 candles for MATIC/USDT
+2025-08-11 15:45:28 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Traceback (most recent call last):
+  File "/Users/anastangelis/Desktop/Crypto Predict/predict_3.py", line 107, in <module>
+    main(sys.argv[1])
+  File "/Users/anastangelis/Desktop/Crypto Predict/predict_3.py", line 82, in main
+    prices = load_combined_prices(symbol)
+  File "/Users/anastangelis/Desktop/Crypto Predict/predict_1.py", line 45, in load_combined_prices
+    live_data = load_json_lines(live_file)
+  File "/Users/anastangelis/Desktop/Crypto Predict/predict_1.py", line 31, in load_json_lines
+    return [json.loads(line) for line in lines]
+  File "/Users/anastangelis/Desktop/Crypto Predict/predict_1.py", line 31, in <listcomp>
+    return [json.loads(line) for line in lines]
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+[2025-08-10 19:06:52.299468] Running predictions for DOT_USDT...
+[2025-08-10 19:06:53.035760] Running predictions for MATIC_USDT...
+[2025-08-10 19:06:53.802356] Running predictions for LTC_USDT...
+[2025-08-10 20:06:44.182463] Running get_live_prices.py...
+[2025-08-10 20:07:13.480694] Running predictions for BTC_USDT...
+[2025-08-10 20:07:14.487032] Running predictions for ETH_USDT...
+[2025-08-10 20:07:15.232713] Running predictions for BNB_USDT...
+[2025-08-10 20:07:15.924318] Running predictions for XRP_USDT...
+[2025-08-10 20:07:16.624078] Running predictions for ADA_USDT...
+[2025-08-10 20:07:17.318999] Running predictions for DOGE_USDT...
+[2025-08-10 20:07:18.023513] Running predictions for SOL_USDT...
+[2025-08-10 20:07:18.733211] Running predictions for DOT_USDT...
+[2025-08-10 20:07:19.446131] Running predictions for MATIC_USDT...
+[2025-08-10 20:07:20.152344] Running predictions for LTC_USDT...
+[2025-08-10 21:07:07.920028] Running get_live_prices.py...
+[2025-08-10 21:07:41.065752] Running predictions for BTC_USDT...
+[2025-08-10 21:07:42.086782] Running predictions for ETH_USDT...
+[2025-08-10 21:07:42.817114] Running predictions for BNB_USDT...
+[2025-08-10 21:07:43.520764] Running predictions for XRP_USDT...
+[2025-08-10 21:07:44.218668] Running predictions for ADA_USDT...
+[2025-08-10 21:07:44.903088] Running predictions for DOGE_USDT...
+[2025-08-10 21:07:45.598673] Running predictions for SOL_USDT...
+[2025-08-10 21:07:46.309746] Running predictions for DOT_USDT...
+[2025-08-10 21:07:47.008237] Running predictions for MATIC_USDT...
+[2025-08-10 21:07:47.715270] Running predictions for LTC_USDT...
+[2025-08-11 10:41:21.853639] Running get_live_prices.py...
+[2025-08-11 11:48:45.120265] Running predictions for BTC_USDT...
+[2025-08-11 11:48:46.127241] Running predictions for ETH_USDT...
+[2025-08-11 11:48:46.806797] Running predictions for BNB_USDT...
+[2025-08-11 11:48:47.482821] Running predictions for XRP_USDT...
+[2025-08-11 11:48:48.160957] Running predictions for ADA_USDT...
+[2025-08-11 11:48:48.836257] Running predictions for DOGE_USDT...
+[2025-08-11 11:48:49.509240] Running predictions for SOL_USDT...
+[2025-08-11 11:48:50.205797] Running predictions for DOT_USDT...
+[2025-08-11 11:48:50.885216] Running predictions for MATIC_USDT...
+[2025-08-11 11:48:51.574921] Running predictions for LTC_USDT...
+[2025-08-11 11:48:52.269661] Running get_live_prices.py...
+[2025-08-11 11:49:24.923372] Running predictions for BTC_USDT...
+[2025-08-11 11:49:25.889745] Running predictions for ETH_USDT...
+[2025-08-11 11:49:26.566898] Running predictions for BNB_USDT...
+[2025-08-11 11:49:27.248687] Running predictions for XRP_USDT...
+[2025-08-11 11:49:27.926386] Running predictions for ADA_USDT...
+[2025-08-11 11:49:28.593082] Running predictions for DOGE_USDT...
+[2025-08-11 11:49:29.267847] Running predictions for SOL_USDT...
+[2025-08-11 11:49:29.936083] Running predictions for DOT_USDT...
+[2025-08-11 11:49:30.612891] Running predictions for MATIC_USDT...
+[2025-08-11 11:49:31.302113] Running predictions for LTC_USDT...
+[2025-08-11 15:44:20.138621] Running get_live_prices.py...
+[2025-08-11 15:45:29.226989] Running predictions for BTC_USDT...
+Traceback (most recent call last):
+  File "/Users/anastangelis/Desktop/Crypto Predict/pipeline.py", line 73, in <module>
+    main()
+  File "/Users/anastangelis/Desktop/Crypto Predict/pipeline.py", line 55, in main
+    run_predictions()
+  File "/Users/anastangelis/Desktop/Crypto Predict/pipeline.py", line 35, in run_predictions
+    subprocess.run(["python3", "predict_3.py", coin], check=True)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/subprocess.py", line 524, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['python3', 'predict_3.py', 'BTC_USDT']' returned non-zero exit status 1.
