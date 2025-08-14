@@ -4,11 +4,17 @@ import torch
 import numpy as np
 from pathlib import Path
 from sklearn.metrics import mean_absolute_error, root_mean_squared_error
+from datetime import datetime
 
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data"
 MODEL_DIR = BASE_DIR / "models"
-REPORT_FILE = BASE_DIR / "accuracy_report.txt"  # Output file
+REPORTS_DIR = BASE_DIR / "accuracy_reports"  # Folder for reports
+REPORTS_DIR.mkdir(exist_ok=True)  # Create if not exists
+
+# Filename with today's date
+date_str = datetime.utcnow().strftime("%Y-%m-%d")
+REPORT_FILE = REPORTS_DIR / f"{date_str}_accuracy_report.txt"
 
 SEQ_LEN = 10  # Must match the training sequence length
 
@@ -34,11 +40,9 @@ def backtest(symbol, forecast_horizon=1):
     if not data_file.exists():
         return f"No historical data for {symbol}\n", None
 
-    # Load price history
     with open(data_file, "r") as f:
         hist_data = json.load(f)
 
-    # Filter entries that have the "close" key
     filtered_data = [x for x in hist_data if "close" in x]
     missing_count = len(hist_data) - len(filtered_data)
     warning_msg = ""
@@ -50,18 +54,15 @@ def backtest(symbol, forecast_horizon=1):
     if len(closes) < 100 + forecast_horizon:
         return f"{warning_msg}Not enough data for backtesting {symbol} with forecast horizon {forecast_horizon}\n", None
 
-    # Normalize
     max_price = closes.max()
     norm_closes = closes / max_price
 
-    # Prepare sequences with forecast horizon
     X, y = [], []
     for i in range(len(norm_closes) - SEQ_LEN - forecast_horizon + 1):
         X.append(norm_closes[i:i+SEQ_LEN])
         y.append(norm_closes[i + SEQ_LEN + forecast_horizon - 1])
     X, y = np.array(X), np.array(y)
 
-    # Use last 20% as "test set"
     split_idx = int(len(X) * 0.8)
     X_test, y_test = X[split_idx:], y[split_idx:]
 
@@ -69,16 +70,14 @@ def backtest(symbol, forecast_horizon=1):
     with torch.no_grad():
         preds = model(torch.tensor(X_test).unsqueeze(2)).squeeze().numpy()
 
-    # Denormalize
     preds *= max_price
     y_test *= max_price
 
     mae = mean_absolute_error(y_test, preds)
     rmse = root_mean_squared_error(y_test, preds)
     mape = np.mean(np.abs((y_test - preds) / y_test)) * 100
-    accuracy = max(0, 100 - mape)  # Avoid negative accuracy
+    accuracy = max(0, 100 - mape)
 
-    # Build the output text
     result = f"\nBacktest Results for {symbol} (Forecast Horizon: {forecast_horizon} days):\n"
     result += warning_msg
     result += f"MAE: {mae:.4f}\n"
@@ -90,7 +89,6 @@ def backtest(symbol, forecast_horizon=1):
     result += f"- RMSE of {rmse:.4f} shows error magnitude (larger errors penalized more).\n"
     result += f"- MAPE of {mape:.2f}% shows the average percentage error relative to price.\n"
 
-    # Append human-readable assessment based on thresholds
     if mape > 100:
         result += f"- The model is unusable. Accuracy ~ {accuracy:.1f}%.\n"
     elif mape > 75:
@@ -116,10 +114,10 @@ def backtest(symbol, forecast_horizon=1):
 
 if __name__ == "__main__":
     symbols = [f.stem for f in DATA_DIR.glob("*.json")]
-    full_report = "CRYPTO PREDICTION ACCURACY REPORT\n" + "="*60 + "\n"
+    full_report = f"CRYPTO PREDICTION ACCURACY REPORT ({date_str})\n" + "="*60 + "\n"
 
     forecast_horizons = [1, 7, 30]
-    accuracies = []  # To collect accuracy scores
+    accuracies = []
 
     for symbol in symbols:
         for horizon in forecast_horizons:
@@ -128,7 +126,6 @@ if __name__ == "__main__":
             if accuracy is not None:
                 accuracies.append(accuracy)
 
-    # Compute overall average accuracy
     if accuracies:
         avg_accuracy = np.mean(accuracies)
         full_report += f"\nOVERALL AVERAGE MODEL ACCURACY: {avg_accuracy:.2f}%\n"
@@ -136,7 +133,6 @@ if __name__ == "__main__":
     else:
         full_report += "\nNo valid results to compute overall accuracy.\n" + "="*60 + "\n"
 
-    # Save to file
     with open(REPORT_FILE, "w") as f:
         f.write(full_report)
 
