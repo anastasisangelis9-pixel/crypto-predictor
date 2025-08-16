@@ -3,20 +3,21 @@ import json
 import torch
 import numpy as np
 from pathlib import Path
-from sklearn.metrics import mean_absolute_error, root_mean_squared_error
+from sklearn.metrics import mean_absolute_error, mean_squared_error
 from datetime import datetime
 
 BASE_DIR = Path(__file__).parent
 DATA_DIR = BASE_DIR / "data"
 MODEL_DIR = BASE_DIR / "models"
-REPORTS_DIR = BASE_DIR / "accuracy_reports"  # Folder for reports
-REPORTS_DIR.mkdir(exist_ok=True)  # Create if not exists
+REPORTS_DIR = BASE_DIR / "accuracy_reports"
+REPORTS_DIR.mkdir(exist_ok=True)  # create folder if it doesn't exist
 
-# Filename with today's date
-date_str = datetime.utcnow().strftime("%Y-%m-%d")
-REPORT_FILE = REPORTS_DIR / f"{date_str}_accuracy_report.txt"
+SEQ_LEN = 10  # Must match your training sequence length
 
-SEQ_LEN = 10  # Must match the training sequence length
+# Timestamped report filename
+timestamp = datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
+REPORT_FILE = REPORTS_DIR / f"accuracy_report_{timestamp}.json"
+
 
 class PricePredictionModel(torch.nn.Module):
     def __init__(self):
@@ -28,31 +29,30 @@ class PricePredictionModel(torch.nn.Module):
         out, _ = self.lstm(x)
         return self.fc(out[:, -1, :])
 
+
 def load_model(symbol):
     model = PricePredictionModel()
-    model_path = MODEL_DIR / f"daily_model_{symbol}.pth" 
+    model_path = MODEL_DIR / f"daily_model_{symbol}.pth"
     model.load_state_dict(torch.load(model_path))
     model.eval()
     return model
 
+
 def backtest(symbol, forecast_horizon=1):
     data_file = DATA_DIR / f"{symbol}.json"
     if not data_file.exists():
-        return f"No historical data for {symbol}\n", None
+        return {"warning": f"No historical data for {symbol}"}, None
 
     with open(data_file, "r") as f:
         hist_data = json.load(f)
 
     filtered_data = [x for x in hist_data if "close" in x]
     missing_count = len(hist_data) - len(filtered_data)
-    warning_msg = ""
-    if missing_count > 0:
-        warning_msg = f"Warning: Skipped {missing_count} entries without 'close' for {symbol}\n"
+    warning_msg = f"Skipped {missing_count} entries without 'close'" if missing_count > 0 else ""
 
     closes = np.array([x["close"] for x in filtered_data], dtype=np.float32)
-
     if len(closes) < 100 + forecast_horizon:
-        return f"{warning_msg}Not enough data for backtesting {symbol} with forecast horizon {forecast_horizon}\n", None
+        return {"warning": f"Not enough data for backtesting {symbol}"}, None
 
     max_price = closes.max()
     norm_closes = closes / max_price
@@ -74,66 +74,66 @@ def backtest(symbol, forecast_horizon=1):
     y_test *= max_price
 
     mae = mean_absolute_error(y_test, preds)
-    rmse = root_mean_squared_error(y_test, preds)
+    rmse = mean_squared_error(y_test, preds, squared=False)
     mape = np.mean(np.abs((y_test - preds) / y_test)) * 100
     accuracy = max(0, 100 - mape)
 
-    result = f"\nBacktest Results for {symbol} (Forecast Horizon: {forecast_horizon} days):\n"
-    result += warning_msg
-    result += f"MAE: {mae:.4f}\n"
-    result += f"RMSE: {rmse:.4f}\n"
-    result += f"MAPE: {mape:.2f}% error\n"
-
-    result += "Analysis:\n"
-    result += f"- MAE of {mae:.4f} means the predictions differ from actual prices by this amount on average.\n"
-    result += f"- RMSE of {rmse:.4f} shows error magnitude (larger errors penalized more).\n"
-    result += f"- MAPE of {mape:.2f}% shows the average percentage error relative to price.\n"
-
+    # Determine textual analysis
     if mape > 100:
-        result += f"- The model is unusable. Accuracy ~ {accuracy:.1f}%.\n"
+        analysis = f"Model unusable. Accuracy ~ {accuracy:.1f}%"
     elif mape > 75:
-        result += f"- The model is very poor. Accuracy ~ {accuracy:.1f}%.\n"
+        analysis = f"Very poor accuracy ~ {accuracy:.1f}%"
     elif mape > 50:
-        result += f"- The model is highly inaccurate. Accuracy ~ {accuracy:.1f}%.\n"
+        analysis = f"Highly inaccurate ~ {accuracy:.1f}%"
     elif mape > 35:
-        result += f"- The model is low accuracy. Accuracy ~ {accuracy:.1f}%.\n"
+        analysis = f"Low accuracy ~ {accuracy:.1f}%"
     elif mape > 20:
-        result += f"- The model is moderately accurate. Accuracy ~ {accuracy:.1f}%.\n"
+        analysis = f"Moderately accurate ~ {accuracy:.1f}%"
     elif mape > 10:
-        result += f"- The model is reasonably accurate. Accuracy ~ {accuracy:.1f}%.\n"
+        analysis = f"Reasonably accurate ~ {accuracy:.1f}%"
     elif mape > 5:
-        result += f"- The model is very accurate. Accuracy ~ {accuracy:.1f}%.\n"
+        analysis = f"Very accurate ~ {accuracy:.1f}%"
     elif mape > 1:
-        result += f"- The model is extremely accurate. Accuracy ~ {accuracy:.1f}%.\n"
+        analysis = f"Extremely accurate ~ {accuracy:.1f}%"
     else:
-        result += f"- The model is almost perfect. Accuracy ~ {accuracy:.1f}%.\n"
+        analysis = f"Almost perfect ~ {accuracy:.1f}%"
 
-    result += "\n" + "="*60 + "\n"
+    result = {
+        "forecast_horizon": forecast_horizon,
+        "warning": warning_msg,
+        "MAE": float(mae),
+        "RMSE": float(rmse),
+        "MAPE": float(mape),
+        "accuracy": float(accuracy),
+        "analysis": analysis
+    }
+
     return result, accuracy
 
 
 if __name__ == "__main__":
     symbols = [f.stem for f in DATA_DIR.glob("*.json")]
-    full_report = f"CRYPTO PREDICTION ACCURACY REPORT ({date_str})\n" + "="*60 + "\n"
+    report_data = {
+        "timestamp": timestamp,
+        "results": {},
+        "overall_accuracy": None
+    }
 
     forecast_horizons = [1, 7, 30]
     accuracies = []
 
     for symbol in symbols:
+        report_data["results"][symbol] = {}
         for horizon in forecast_horizons:
             result, accuracy = backtest(symbol, forecast_horizon=horizon)
-            full_report += result
+            report_data["results"][symbol][str(horizon)] = result
             if accuracy is not None:
                 accuracies.append(accuracy)
 
     if accuracies:
-        avg_accuracy = np.mean(accuracies)
-        full_report += f"\nOVERALL AVERAGE MODEL ACCURACY: {avg_accuracy:.2f}%\n"
-        full_report += "="*60 + "\n"
-    else:
-        full_report += "\nNo valid results to compute overall accuracy.\n" + "="*60 + "\n"
+        report_data["overall_accuracy"] = float(np.mean(accuracies))
 
     with open(REPORT_FILE, "w") as f:
-        f.write(full_report)
+        json.dump(report_data, f, indent=4)
 
     print(f"Accuracy report saved to {REPORT_FILE}")
