@@ -11,7 +11,7 @@ COIN_NAMES = {
     "SOL": "Solana", "DOT": "Polkadot", "MATIC": "Polygon", "LTC": "Litecoin"
 }
 
-BASE_DIR = Path("/Users/anastangelis/Desktop/Crypto Predict")
+BASE_DIR = Path(__file__).resolve().parent
 PREDICTIONS_DIR = BASE_DIR / "predictions"
 
 
