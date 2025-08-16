@@ -4,7 +4,7 @@ import torch
 import numpy as np
 from pathlib import Path
 
-BASE_DIR = Path("/Users/anastangelis/Desktop/Crypto Predict")
+BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 LIVE_DATA_DIR = BASE_DIR / "live_data"
 MODEL_DIR = BASE_DIR / "models"
