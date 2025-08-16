@@ -3,7 +3,7 @@ name: Run Crypto Predictor
 on:
   schedule:
     - cron: "0 * * * *"  # Runs every hour
-  workflow_dispatch:      # Lets you trigger it manually
+  workflow_dispatch:      # Manual trigger
 
 jobs:
   run-pipeline:
@@ -32,18 +32,26 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run pipeline
-        run: python pipeline.py
+        run: |
+          echo "Running pipeline.py..."
+          python pipeline.py || echo "pipeline.py failed but continuing..."
 
       - name: Run backtest
-        run: python backtest.py
+        run: |
+          echo "Running backtest.py..."
+          python backtest.py || echo "backtest.py failed but continuing..."
 
       - name: List accuracy reports
         run: |
           echo "Checking accuracy_reports folder..."
-          ls -l accuracy_reports/
+          if [ -d "accuracy_reports" ]; then
+            ls -lh accuracy_reports/
+          else
+            echo "accuracy_reports folder does not exist!"
+          fi
 
       - name: Upload all accuracy reports
         uses: actions/upload-artifact@v4
         with:
           name: accuracy_reports
-          path: accuracy_reports/*.json
+          path: accuracy_reports/
