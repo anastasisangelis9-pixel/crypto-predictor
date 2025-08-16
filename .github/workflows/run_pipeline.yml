@@ -37,8 +37,13 @@ jobs:
       - name: Run backtest
         run: python backtest.py
 
+      - name: List accuracy reports
+        run: |
+          echo "Checking accuracy_reports folder..."
+          ls -l accuracy_reports/
+
       - name: Upload all accuracy reports
         uses: actions/upload-artifact@v4
         with:
           name: accuracy_reports
-          path: accuracy_reports/
+          path: accuracy_reports/*.json
