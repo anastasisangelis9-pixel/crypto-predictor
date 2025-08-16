@@ -74,7 +74,7 @@ def backtest(symbol, forecast_horizon=1):
     y_test *= max_price
 
     mae = mean_absolute_error(y_test, preds)
-    rmse = mean_squared_error(y_test, preds, squared=False)
+    rmse = np.sqrt(mean_squared_error(y_test, preds))  # ✅ FIXED HERE
     mape = np.mean(np.abs((y_test - preds) / y_test)) * 100
     accuracy = max(0, 100 - mape)
 
