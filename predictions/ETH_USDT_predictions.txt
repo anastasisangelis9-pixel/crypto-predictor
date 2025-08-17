@@ -1,19 +1,19 @@
-Price predictions for Ethereum (ETH_USDT) at 2025-08-17 15:20:37 UTC
+Price predictions for Ethereum (ETH_USDT) at 2025-08-17 18:21:13 UTC
 
-Last known (input) price: 4547.879395
+Last known (input) price: 4534.201172
 
-Short-term prediction (next hour): 4547.879395
+Short-term prediction (next hour): 4534.201172
 Expected change next hour: 0.000000 (0.00%)
 In simple terms: Price expected to stay FLAT in the next hour.
 
 Long-term predictions for the next 7 days:
-  Day 1: 4547.879395 (Change: 0.000000, 0.00%)
-  Day 2: 4548.682617 (Change: +0.803223, +0.02%)
-  Day 3: 4549.011230 (Change: +1.131836, +0.02%)
-  Day 4: 4549.147949 (Change: +1.268555, +0.03%)
-  Day 5: 4549.207031 (Change: +1.327637, +0.03%)
-  Day 6: 4549.235352 (Change: +1.355957, +0.03%)
-  Day 7: 4549.250000 (Change: +1.370605, +0.03%)
+  Day 1: 4534.201172 (Change: 0.000000, 0.00%)
+  Day 2: 4538.562988 (Change: +4.361816, +0.10%)
+  Day 3: 4540.366699 (Change: +6.165527, +0.14%)
+  Day 4: 4541.177734 (Change: +6.976562, +0.15%)
+  Day 5: 4541.598633 (Change: +7.397461, +0.16%)
+  Day 6: 4541.856445 (Change: +7.655273, +0.17%)
+  Day 7: 4542.036621 (Change: +7.835449, +0.17%)
 
-Overall trend: Price expected to RISE over 7 days, from 4547.879395 to 4549.250000 (Gain: +1.370605, +0.03%).
+Overall trend: Price expected to RISE over 7 days, from 4534.201172 to 4542.036621 (Gain: +7.835449, +0.17%).
 In plain words: Market looks bullish — expect a gradual climb.
