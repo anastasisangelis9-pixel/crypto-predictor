@@ -50,8 +50,10 @@ jobs:
             echo "accuracy_reports folder does not exist!"
           fi
 
-      - name: Upload all accuracy reports
-        uses: actions/upload-artifact@v4
-        with:
-          name: accuracy_reports
-          path: accuracy_reports/
+      - name: Commit and push accuracy reports
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add accuracy_reports/
+          git commit -m "Add new accuracy report from GitHub Actions" || echo "No changes to commit"
+          git push
