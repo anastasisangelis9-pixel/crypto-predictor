@@ -14,9 +14,11 @@ REPORTS_DIR.mkdir(exist_ok=True)  # Create folder if it doesn't exist
 
 SEQ_LEN = 10  # Must match your training sequence length
 
-# Timestamped report filename
+# Timestamp for JSON (human-readable)
 timestamp = datetime.utcnow().strftime("%H:%M:%S_%d-%m-%Y")
-REPORT_FILE = REPORTS_DIR / f"{timestamp}_accuracy_report.json"
+# Safe timestamp for filename (replace ':' with '-')
+safe_timestamp = timestamp.replace(":", "-")
+REPORT_FILE = REPORTS_DIR / f"{safe_timestamp}_accuracy_report.json"
 
 
 class PricePredictionModel(torch.nn.Module):
@@ -119,7 +121,7 @@ def backtest(symbol, forecast_horizon=1):
 if __name__ == "__main__":
     symbols = [f.stem for f in DATA_DIR.glob("*.json")]
     report_data = {
-        "timestamp": timestamp,
+        "timestamp": timestamp,  # human-readable in JSON
         "results": {},
         "overall_accuracy": None
     }
