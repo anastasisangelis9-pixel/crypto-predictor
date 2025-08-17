@@ -12,8 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Fetch full history for pushing to another branch
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -42,25 +40,22 @@ jobs:
           python backtest.py || echo "backtest.py failed but continuing..."
 
       - name: Ensure accuracy_reports folder exists
-        run: |
-          mkdir -p accuracy_reports
-          echo "accuracy_reports folder is ready."
+        run: mkdir -p accuracy_reports
 
-      - name: Push accuracy reports to reports branch
+      - name: Commit and push reports to `reports` branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Create branch if it doesn't exist
-          if git ls-remote --exit-code --heads origin reports; then
-            git checkout reports
-          else
-            git checkout -b reports
-          fi
+          # Switch to or create the reports branch
+          git fetch origin reports || true
+          git checkout -B reports
 
-          # Copy all reports with timestamp
-          cp accuracy_reports/*.json .
+          # Copy all timestamped reports (they are already in accuracy_reports/)
+          git add accuracy_reports/
+          git commit -m "Add accuracy report $(date +'%H-%M-%S_%d-%m-%Y')" || echo "No changes to commit"
 
-          git add *.json
-          git commit -m "Add accuracy report from ${{ github.run_id }}" || echo "No new reports to commit"
-          git push origin reports
+          # Push using GITHUB_TOKEN
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} reports --force
