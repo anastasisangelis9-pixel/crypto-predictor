@@ -41,14 +41,15 @@ jobs:
           echo "Running backtest.py..."
           python backtest.py || echo "backtest.py failed but continuing..."
 
+      - name: Ensure accuracy_reports folder exists
+        run: |
+          mkdir -p accuracy_reports
+          echo "accuracy_reports folder is ready."
+
       - name: List accuracy reports
         run: |
-          echo "Checking accuracy_reports folder..."
-          if [ -d "accuracy_reports" ]; then
-            ls -lh accuracy_reports/
-          else
-            echo "accuracy_reports folder does not exist!"
-          fi
+          echo "Listing accuracy_reports folder contents..."
+          ls -lh accuracy_reports/ || echo "Folder is empty"
 
       - name: Upload accuracy reports as artifact
         uses: actions/upload-artifact@v4
