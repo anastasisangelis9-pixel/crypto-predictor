@@ -4094,3 +4094,14 @@
 2025-08-17 15:12:07 UTC - Prediction failed for LTC/USDT: Command '['python3', 'predict.py', 'LTC_USDT']' returned non-zero exit status 2.
 2025-08-17 15:12:07 UTC - Sleeping for 30 minutes...
 
+2025-08-17 15:20:04 UTC - Starting live data fetch...
+2025-08-17 15:20:08 UTC - Saved 2 candles for BTC/USDT
+2025-08-17 15:20:11 UTC - Saved 2 candles for ETH/USDT
+2025-08-17 15:20:15 UTC - Saved 2 candles for BNB/USDT
+2025-08-17 15:20:18 UTC - Saved 2 candles for XRP/USDT
+2025-08-17 15:20:21 UTC - Saved 2 candles for ADA/USDT
+2025-08-17 15:20:24 UTC - Saved 2 candles for DOGE/USDT
+2025-08-17 15:20:27 UTC - Saved 2 candles for SOL/USDT
+2025-08-17 15:20:30 UTC - Saved 2 candles for DOT/USDT
+2025-08-17 15:20:32 UTC - Saved 2 candles for MATIC/USDT
+2025-08-17 15:20:35 UTC - Saved 2 candles for LTC/USDT

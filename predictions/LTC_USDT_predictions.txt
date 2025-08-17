@@ -1,19 +1,19 @@
-Price predictions for Litecoin (LTC_USDT) at 2025-08-17 14:20:52 UTC
+Price predictions for Litecoin (LTC_USDT) at 2025-08-17 15:20:42 UTC
 
-Last known (input) price: 118.016373
+Last known (input) price: 121.522659
 
-Short-term prediction (next hour): 118.733627
-Expected change next hour: +0.717255 (+0.61%)
-In simple terms: Price likely to RISE by about 0.61% in the next hour.
+Short-term prediction (next hour): 121.522644
+Expected change next hour: -0.000015 (-0.00%)
+In simple terms: Price likely to FALL by about 0.00% in the next hour.
 
 Long-term predictions for the next 7 days:
-  Day 1: 118.016373 (Change: 0.000000, 0.00%)
-  Day 2: 116.827522 (Change: -1.188850, -1.01%)
-  Day 3: 116.307671 (Change: -1.708702, -1.45%)
-  Day 4: 116.052933 (Change: -1.963440, -1.66%)
-  Day 5: 115.907730 (Change: -2.108643, -1.79%)
-  Day 6: 115.812378 (Change: -2.203995, -1.87%)
-  Day 7: 115.743523 (Change: -2.272850, -1.93%)
+  Day 1: 121.522659 (Change: 0.000000, 0.00%)
+  Day 2: 121.471176 (Change: -0.051483, -0.04%)
+  Day 3: 121.449188 (Change: -0.073471, -0.06%)
+  Day 4: 121.438721 (Change: -0.083939, -0.07%)
+  Day 5: 121.432907 (Change: -0.089752, -0.07%)
+  Day 6: 121.429138 (Change: -0.093521, -0.08%)
+  Day 7: 121.426430 (Change: -0.096230, -0.08%)
 
-Overall trend: Price expected to FALL over 7 days, from 118.016373 to 115.743523 (Loss: -2.272850, -1.93%).
+Overall trend: Price expected to FALL over 7 days, from 121.522659 to 121.426430 (Loss: -0.096230, -0.08%).
 In plain words: Market looks bearish — expect a gradual drop.

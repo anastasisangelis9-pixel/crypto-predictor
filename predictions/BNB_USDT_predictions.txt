@@ -1,19 +1,19 @@
-Price predictions for Binance Coin (BNB_USDT) at 2025-08-17 14:20:47 UTC
+Price predictions for Binance Coin (BNB_USDT) at 2025-08-17 15:20:37 UTC
 
-Last known (input) price: 848.405945
+Last known (input) price: 859.337769
 
-Short-term prediction (next hour): 848.405884
-Expected change next hour: -0.000061 (-0.00%)
-In simple terms: Price likely to FALL by about 0.00% in the next hour.
+Short-term prediction (next hour): 859.337769
+Expected change next hour: 0.000000 (0.00%)
+In simple terms: Price expected to stay FLAT in the next hour.
 
 Long-term predictions for the next 7 days:
-  Day 1: 848.405945 (Change: 0.000000, 0.00%)
-  Day 2: 844.585999 (Change: -3.819946, -0.45%)
-  Day 3: 842.977173 (Change: -5.428772, -0.64%)
-  Day 4: 842.228394 (Change: -6.177551, -0.73%)
-  Day 5: 841.815186 (Change: -6.590759, -0.78%)
-  Day 6: 841.538574 (Change: -6.867371, -0.81%)
-  Day 7: 841.324707 (Change: -7.081238, -0.83%)
+  Day 1: 859.337769 (Change: 0.000000, 0.00%)
+  Day 2: 859.853394 (Change: +0.515625, +0.06%)
+  Day 3: 860.073730 (Change: +0.735962, +0.09%)
+  Day 4: 860.178833 (Change: +0.841064, +0.10%)
+  Day 5: 860.238708 (Change: +0.900940, +0.10%)
+  Day 6: 860.279907 (Change: +0.942139, +0.11%)
+  Day 7: 860.312256 (Change: +0.974487, +0.11%)
 
-Overall trend: Price expected to FALL over 7 days, from 848.405945 to 841.324707 (Loss: -7.081238, -0.83%).
-In plain words: Market looks bearish — expect a gradual drop.
+Overall trend: Price expected to RISE over 7 days, from 859.337769 to 860.312256 (Gain: +0.974487, +0.11%).
+In plain words: Market looks bullish — expect a gradual climb.
