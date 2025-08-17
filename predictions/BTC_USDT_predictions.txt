@@ -1,19 +1,19 @@
-Price predictions for Bitcoin (BTC_USDT) at 2025-08-17 13:20:53 UTC
+Price predictions for Bitcoin (BTC_USDT) at 2025-08-17 14:20:46 UTC
 
-Last known (input) price: 118400.000000
+Last known (input) price: 118240.273438
 
-Short-term prediction (next hour): 118399.984375
-Expected change next hour: -0.015625 (-0.00%)
+Short-term prediction (next hour): 118240.265625
+Expected change next hour: -0.007812 (-0.00%)
 In simple terms: Price likely to FALL by about 0.00% in the next hour.
 
 Long-term predictions for the next 7 days:
-  Day 1: 118400.000000 (Change: 0.000000, 0.00%)
-  Day 2: 118525.148438 (Change: +125.148438, +0.11%)
-  Day 3: 118577.593750 (Change: +177.593750, +0.15%)
-  Day 4: 118602.101562 (Change: +202.101562, +0.17%)
-  Day 5: 118615.875000 (Change: +215.875000, +0.18%)
-  Day 6: 118625.312500 (Change: +225.312500, +0.19%)
-  Day 7: 118632.718750 (Change: +232.718750, +0.20%)
+  Day 1: 118240.273438 (Change: 0.000000, 0.00%)
+  Day 2: 118228.820312 (Change: -11.453125, -0.01%)
+  Day 3: 118223.921875 (Change: -16.351562, -0.01%)
+  Day 4: 118221.351562 (Change: -18.921875, -0.02%)
+  Day 5: 118219.593750 (Change: -20.679688, -0.02%)
+  Day 6: 118218.171875 (Change: -22.101562, -0.02%)
+  Day 7: 118216.921875 (Change: -23.351562, -0.02%)
 
-Overall trend: Price expected to RISE over 7 days, from 118400.000000 to 118632.718750 (Gain: +232.718750, +0.20%).
-In plain words: Market looks bullish — expect a gradual climb.
+Overall trend: Price expected to FALL over 7 days, from 118240.273438 to 118216.921875 (Loss: -23.351562, -0.02%).
+In plain words: Market looks bearish — expect a gradual drop.

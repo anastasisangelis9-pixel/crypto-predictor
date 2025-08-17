@@ -1,19 +1,19 @@
-Price predictions for Ethereum (ETH_USDT) at 2025-08-17 13:20:54 UTC
+Price predictions for Ethereum (ETH_USDT) at 2025-08-17 14:20:47 UTC
 
-Last known (input) price: 4390.123047
+Last known (input) price: 4402.704102
 
-Short-term prediction (next hour): 4444.434082
-Expected change next hour: +54.311035 (+1.24%)
+Short-term prediction (next hour): 4457.170898
+Expected change next hour: +54.466797 (+1.24%)
 In simple terms: Price likely to RISE by about 1.24% in the next hour.
 
 Long-term predictions for the next 7 days:
-  Day 1: 4390.123047 (Change: 0.000000, 0.00%)
-  Day 2: 4258.419434 (Change: -131.703613, -3.00%)
-  Day 3: 4167.141113 (Change: -222.981934, -5.08%)
-  Day 4: 4128.029785 (Change: -262.093262, -5.97%)
-  Day 5: 4109.530273 (Change: -280.592773, -6.39%)
-  Day 6: 4099.400879 (Change: -290.722168, -6.62%)
-  Day 7: 4092.949707 (Change: -297.173340, -6.77%)
+  Day 1: 4402.704102 (Change: 0.000000, 0.00%)
+  Day 2: 4270.623047 (Change: -132.081055, -3.00%)
+  Day 3: 4210.068359 (Change: -192.635742, -4.38%)
+  Day 4: 4183.525879 (Change: -219.178223, -4.98%)
+  Day 5: 4170.441406 (Change: -232.262695, -5.28%)
+  Day 6: 4162.899902 (Change: -239.804199, -5.45%)
+  Day 7: 4157.884277 (Change: -244.819824, -5.56%)
 
-Overall trend: Price expected to FALL over 7 days, from 4390.123047 to 4092.949707 (Loss: -297.173340, -6.77%).
+Overall trend: Price expected to FALL over 7 days, from 4402.704102 to 4157.884277 (Loss: -244.819824, -5.56%).
 In plain words: Market looks bearish — expect a gradual drop.

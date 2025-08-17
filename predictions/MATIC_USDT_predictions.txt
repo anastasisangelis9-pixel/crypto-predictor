@@ -1,10 +1,10 @@
-Price predictions for Polygon (MATIC_USDT) at 2025-08-17 13:20:59 UTC
+Price predictions for Polygon (MATIC_USDT) at 2025-08-17 14:20:52 UTC
 
 Last known (input) price: 0.390782
 
-Short-term prediction (next hour): 0.382372
-Expected change next hour: -0.008410 (-2.15%)
-In simple terms: Price likely to FALL by about 2.15% in the next hour.
+Short-term prediction (next hour): 0.376861
+Expected change next hour: -0.013921 (-3.56%)
+In simple terms: Price likely to FALL by about 3.56% in the next hour.
 
 Long-term predictions for the next 7 days:
   Day 1: 0.390782 (Change: 0.000000, 0.00%)
