@@ -1,19 +1,19 @@
-Price predictions for Cardano (ADA_USDT) at 2025-08-17 18:21:15 UTC
+Price predictions for Cardano (ADA_USDT) at 2025-08-17 19:22:21 UTC
 
-Last known (input) price: 0.988697
+Last known (input) price: 0.984268
 
-Short-term prediction (next hour): 0.962805
-Expected change next hour: -0.025892 (-2.62%)
-In simple terms: Price likely to FALL by about 2.62% in the next hour.
+Short-term prediction (next hour): 0.959400
+Expected change next hour: -0.024868 (-2.53%)
+In simple terms: Price likely to FALL by about 2.53% in the next hour.
 
 Long-term predictions for the next 7 days:
-  Day 1: 0.988697 (Change: 0.000000, 0.00%)
-  Day 2: 1.018358 (Change: +0.029661, +3.00%)
-  Day 3: 1.048909 (Change: +0.060212, +6.09%)
-  Day 4: 1.080376 (Change: +0.091679, +9.27%)
-  Day 5: 1.112787 (Change: +0.124090, +12.55%)
-  Day 6: 1.146171 (Change: +0.157474, +15.93%)
-  Day 7: 1.180556 (Change: +0.191859, +19.41%)
+  Day 1: 0.984268 (Change: 0.000000, 0.00%)
+  Day 2: 1.013796 (Change: +0.029528, +3.00%)
+  Day 3: 1.044210 (Change: +0.059942, +6.09%)
+  Day 4: 1.075536 (Change: +0.091268, +9.27%)
+  Day 5: 1.107803 (Change: +0.123535, +12.55%)
+  Day 6: 1.141037 (Change: +0.156769, +15.93%)
+  Day 7: 1.175268 (Change: +0.191000, +19.41%)
 
-Overall trend: Price expected to RISE over 7 days, from 0.988697 to 1.180556 (Gain: +0.191859, +19.41%).
+Overall trend: Price expected to RISE over 7 days, from 0.984268 to 1.175268 (Gain: +0.191000, +19.41%).
 In plain words: Market looks bullish — expect a gradual climb.

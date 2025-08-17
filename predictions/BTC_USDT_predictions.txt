@@ -1,19 +1,19 @@
-Price predictions for Bitcoin (BTC_USDT) at 2025-08-17 18:21:13 UTC
+Price predictions for Bitcoin (BTC_USDT) at 2025-08-17 19:22:18 UTC
 
-Last known (input) price: 117994.062500
+Last known (input) price: 117854.093750
 
-Short-term prediction (next hour): 117994.046875
-Expected change next hour: -0.015625 (-0.00%)
-In simple terms: Price likely to FALL by about 0.00% in the next hour.
+Short-term prediction (next hour): 117854.093750
+Expected change next hour: 0.000000 (0.00%)
+In simple terms: Price expected to stay FLAT in the next hour.
 
 Long-term predictions for the next 7 days:
-  Day 1: 117994.062500 (Change: 0.000000, 0.00%)
-  Day 2: 118050.109375 (Change: +56.046875, +0.05%)
-  Day 3: 118072.656250 (Change: +78.593750, +0.07%)
-  Day 4: 118082.523438 (Change: +88.460938, +0.07%)
-  Day 5: 118087.671875 (Change: +93.609375, +0.08%)
-  Day 6: 118091.046875 (Change: +96.984375, +0.08%)
-  Day 7: 118093.671875 (Change: +99.609375, +0.08%)
+  Day 1: 117854.093750 (Change: 0.000000, 0.00%)
+  Day 2: 117924.015625 (Change: +69.921875, +0.06%)
+  Day 3: 117952.984375 (Change: +98.890625, +0.08%)
+  Day 4: 117966.468750 (Change: +112.375000, +0.10%)
+  Day 5: 117974.140625 (Change: +120.046875, +0.10%)
+  Day 6: 117979.507812 (Change: +125.414062, +0.11%)
+  Day 7: 117983.820312 (Change: +129.726562, +0.11%)
 
-Overall trend: Price expected to RISE over 7 days, from 117994.062500 to 118093.671875 (Gain: +99.609375, +0.08%).
+Overall trend: Price expected to RISE over 7 days, from 117854.093750 to 117983.820312 (Gain: +129.726562, +0.11%).
 In plain words: Market looks bullish — expect a gradual climb.

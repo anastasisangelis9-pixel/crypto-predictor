@@ -1,16 +1,17 @@
+# .github/workflows/run_pipeline.yml
 name: Run Crypto Predictor
 
 on:
   schedule:
     - cron: "0 * * * *"  # Runs every hour
-  workflow_dispatch:
+  workflow_dispatch:      # Manual trigger
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout repository
+      # Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -37,30 +38,6 @@ jobs:
 
       # Run main pipeline
       - name: Run pipeline
-        run: python pipeline.py || echo "pipeline.py failed but continuing..."
-
-      # Run backtest
-      - name: Run backtest
-        run: python backtest.py || echo "backtest.py failed but continuing..."
-
-      # Ensure accuracy_reports folder exists
-      - name: Ensure accuracy_reports folder exists
-        run: mkdir -p accuracy_reports
-
-      # Move report with timestamp
-      - name: Rename latest report
         run: |
-          TIMESTAMP=$(date +'%H-%M-%S_%d-%m-%Y')
-          REPORT_NAME="${TIMESTAMP}_accuracy_report.json"
-          mv accuracy_reports/*.json accuracy_reports/$REPORT_NAME || echo "No new report to move"
-
-      # Commit & push to main using PAT
-      - name: Push accuracy reports to main
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add accuracy_reports/
-          git diff-index --quiet HEAD || git commit -m "Add accuracy report $TIMESTAMP"
-          git push "https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git" main
+          echo "Running pipeline.py..."
+          python pipeline.py || echo "pipeline.py failed but continuing..."
