@@ -51,6 +51,20 @@ jobs:
           echo "Listing accuracy_reports folder contents..."
           ls -lh accuracy_reports/ || echo "Folder is empty"
 
+      - name: Commit and push accuracy reports
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git checkout main
+          git add accuracy_reports/
+          git commit -m "Add new accuracy report from GitHub Actions" || echo "No changes to commit"
+
+          # Push using the GH_PAT secret
+          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }} HEAD:main
+
       - name: Upload accuracy reports as artifact
         uses: actions/upload-artifact@v4
         with:
