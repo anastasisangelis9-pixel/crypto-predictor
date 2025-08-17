@@ -1,0 +1,296 @@
+{
+    "timestamp": "2025-08-17_09-38-19",
+    "results": {
+        "DOGE_USDT": {
+            "1": {
+                "forecast_horizon": 1,
+                "warning": "Skipped 3 entries without 'close'",
+                "MAE": 0.09358713775873184,
+                "RMSE": 0.10410268604755402,
+                "MAPE": 57.54106521606445,
+                "accuracy": 42.45893478393555,
+                "analysis": "Highly inaccurate ~ 42.5%"
+            },
+            "7": {
+                "forecast_horizon": 7,
+                "warning": "Skipped 3 entries without 'close'",
+                "MAE": 0.09357596188783646,
+                "RMSE": 0.1041194275021553,
+                "MAPE": 57.2908935546875,
+                "accuracy": 42.7091064453125,
+                "analysis": "Highly inaccurate ~ 42.7%"
+            },
+            "30": {
+                "forecast_horizon": 30,
+                "warning": "Skipped 3 entries without 'close'",
+                "MAE": 0.09377530962228775,
+                "RMSE": 0.10458585619926453,
+                "MAPE": 56.280601501464844,
+                "accuracy": 43.719398498535156,
+                "analysis": "Highly inaccurate ~ 43.7%"
+            }
+        },
+        "XRP_USDT": {
+            "1": {
+                "forecast_horizon": 1,
+                "warning": "",
+                "MAE": 0.9290611743927002,
+                "RMSE": 1.0305522680282593,
+                "MAPE": 57.116722106933594,
+                "accuracy": 42.883277893066406,
+                "analysis": "Highly inaccurate ~ 42.9%"
+            },
+            "7": {
+                "forecast_horizon": 7,
+                "warning": "",
+                "MAE": 0.9357313513755798,
+                "RMSE": 1.0395890474319458,
+                "MAPE": 57.318599700927734,
+                "accuracy": 42.681400299072266,
+                "analysis": "Highly inaccurate ~ 42.7%"
+            },
+            "30": {
+                "forecast_horizon": 30,
+                "warning": "",
+                "MAE": 0.9552769064903259,
+                "RMSE": 1.06321120262146,
+                "MAPE": 57.71223449707031,
+                "accuracy": 42.28776550292969,
+                "analysis": "Highly inaccurate ~ 42.3%"
+            }
+        },
+        "MATIC_USDT": {
+            "1": {
+                "forecast_horizon": 1,
+                "warning": "",
+                "MAE": 0.41172799468040466,
+                "RMSE": 0.4519217610359192,
+                "MAPE": 68.86445617675781,
+                "accuracy": 31.135543823242188,
+                "analysis": "Highly inaccurate ~ 31.1%"
+            },
+            "7": {
+                "forecast_horizon": 7,
+                "warning": "",
+                "MAE": 0.41319096088409424,
+                "RMSE": 0.4538303315639496,
+                "MAPE": 69.23063659667969,
+                "accuracy": 30.769363403320312,
+                "analysis": "Highly inaccurate ~ 30.8%"
+            },
+            "30": {
+                "forecast_horizon": 30,
+                "warning": "",
+                "MAE": 0.4159802794456482,
+                "RMSE": 0.45830804109573364,
+                "MAPE": 69.97279357910156,
+                "accuracy": 30.027206420898438,
+                "analysis": "Highly inaccurate ~ 30.0%"
+            }
+        },
+        "ETH_USDT": {
+            "1": {
+                "forecast_horizon": 1,
+                "warning": "",
+                "MAE": 414.3972473144531,
+                "RMSE": 548.5076904296875,
+                "MAPE": 16.04241180419922,
+                "accuracy": 83.95758819580078,
+                "analysis": "Reasonably accurate ~ 84.0%"
+            },
+            "7": {
+                "forecast_horizon": 7,
+                "warning": "",
+                "MAE": 417.161376953125,
+                "RMSE": 553.0502319335938,
+                "MAPE": 16.162296295166016,
+                "accuracy": 83.83770751953125,
+                "analysis": "Reasonably accurate ~ 83.8%"
+            },
+            "30": {
+                "forecast_horizon": 30,
+                "warning": "",
+                "MAE": 425.8900146484375,
+                "RMSE": 569.536376953125,
+                "MAPE": 16.573902130126953,
+                "accuracy": 83.42610168457031,
+                "analysis": "Reasonably accurate ~ 83.4%"
+            }
+        },
+        "BNB_USDT": {
+            "1": {
+                "forecast_horizon": 1,
+                "warning": "",
+                "MAE": 110.57455444335938,
+                "RMSE": 123.25385284423828,
+                "MAPE": 17.020349502563477,
+                "accuracy": 82.97965240478516,
+                "analysis": "Reasonably accurate ~ 83.0%"
+            },
+            "7": {
+                "forecast_horizon": 7,
+                "warning": "",
+                "MAE": 111.15077209472656,
+                "RMSE": 124.10546112060547,
+                "MAPE": 17.09996223449707,
+                "accuracy": 82.90003967285156,
+                "analysis": "Reasonably accurate ~ 82.9%"
+            },
+            "30": {
+                "forecast_horizon": 30,
+                "warning": "",
+                "MAE": 112.30397033691406,
+                "RMSE": 125.73689270019531,
+                "MAPE": 17.249149322509766,
+                "accuracy": 82.7508544921875,
+                "analysis": "Reasonably accurate ~ 82.8%"
+            }
+        },
+        "LTC_USDT": {
+            "1": {
+                "forecast_horizon": 1,
+                "warning": "",
+                "MAE": 28.878223419189453,
+                "RMSE": 33.05862045288086,
+                "MAPE": 37.88747787475586,
+                "accuracy": 62.11252212524414,
+                "analysis": "Low accuracy ~ 62.1%"
+            },
+            "7": {
+                "forecast_horizon": 7,
+                "warning": "",
+                "MAE": 28.905635833740234,
+                "RMSE": 33.09711837768555,
+                "MAPE": 37.899749755859375,
+                "accuracy": 62.100250244140625,
+                "analysis": "Low accuracy ~ 62.1%"
+            },
+            "30": {
+                "forecast_horizon": 30,
+                "warning": "",
+                "MAE": 28.852001190185547,
+                "RMSE": 33.11613845825195,
+                "MAPE": 37.74541473388672,
+                "accuracy": 62.25458526611328,
+                "analysis": "Low accuracy ~ 62.3%"
+            }
+        },
+        "DOT_USDT": {
+            "1": {
+                "forecast_horizon": 1,
+                "warning": "",
+                "MAE": 4.485069274902344,
+                "RMSE": 4.600538730621338,
+                "MAPE": 101.10564422607422,
+                "accuracy": 0.0,
+                "analysis": "Model unusable. Accuracy ~ 0.0%"
+            },
+            "7": {
+                "forecast_horizon": 7,
+                "warning": "",
+                "MAE": 4.496103763580322,
+                "RMSE": 4.631777763366699,
+                "MAPE": 101.60685729980469,
+                "accuracy": 0.0,
+                "analysis": "Model unusable. Accuracy ~ 0.0%"
+            },
+            "30": {
+                "forecast_horizon": 30,
+                "warning": "",
+                "MAE": 4.595703601837158,
+                "RMSE": 4.770090579986572,
+                "MAPE": 104.25362396240234,
+                "accuracy": 0.0,
+                "analysis": "Model unusable. Accuracy ~ 0.0%"
+            }
+        },
+        "ADA_USDT": {
+            "1": {
+                "forecast_horizon": 1,
+                "warning": "",
+                "MAE": 0.3827001750469208,
+                "RMSE": 0.43897026777267456,
+                "MAPE": 82.08377838134766,
+                "accuracy": 17.916221618652344,
+                "analysis": "Very poor accuracy ~ 17.9%"
+            },
+            "7": {
+                "forecast_horizon": 7,
+                "warning": "",
+                "MAE": 0.3820665180683136,
+                "RMSE": 0.4385106563568115,
+                "MAPE": 81.8991928100586,
+                "accuracy": 18.100807189941406,
+                "analysis": "Very poor accuracy ~ 18.1%"
+            },
+            "30": {
+                "forecast_horizon": 30,
+                "warning": "",
+                "MAE": 0.38065794110298157,
+                "RMSE": 0.43691501021385193,
+                "MAPE": 81.1686782836914,
+                "accuracy": 18.831321716308594,
+                "analysis": "Very poor accuracy ~ 18.8%"
+            }
+        },
+        "BTC_USDT": {
+            "1": {
+                "forecast_horizon": 1,
+                "warning": "",
+                "MAE": 27871.240234375,
+                "RMSE": 32077.103515625,
+                "MAPE": 28.927936553955078,
+                "accuracy": 71.07206726074219,
+                "analysis": "Moderately accurate ~ 71.1%"
+            },
+            "7": {
+                "forecast_horizon": 7,
+                "warning": "",
+                "MAE": 28039.640625,
+                "RMSE": 32254.40234375,
+                "MAPE": 29.09440040588379,
+                "accuracy": 70.90560150146484,
+                "analysis": "Moderately accurate ~ 70.9%"
+            },
+            "30": {
+                "forecast_horizon": 30,
+                "warning": "",
+                "MAE": 28628.447265625,
+                "RMSE": 32917.63671875,
+                "MAPE": 29.631427764892578,
+                "accuracy": 70.36857604980469,
+                "analysis": "Moderately accurate ~ 70.4%"
+            }
+        },
+        "SOL_USDT": {
+            "1": {
+                "forecast_horizon": 1,
+                "warning": "",
+                "MAE": 40.570457458496094,
+                "RMSE": 51.14061737060547,
+                "MAPE": 21.508647918701172,
+                "accuracy": 78.49134826660156,
+                "analysis": "Moderately accurate ~ 78.5%"
+            },
+            "7": {
+                "forecast_horizon": 7,
+                "warning": "",
+                "MAE": 40.67631530761719,
+                "RMSE": 51.5559196472168,
+                "MAPE": 21.526531219482422,
+                "accuracy": 78.47346496582031,
+                "analysis": "Moderately accurate ~ 78.5%"
+            },
+            "30": {
+                "forecast_horizon": 30,
+                "warning": "",
+                "MAE": 41.42615509033203,
+                "RMSE": 53.15712356567383,
+                "MAPE": 21.789583206176758,
+                "accuracy": 78.21041870117188,
+                "analysis": "Moderately accurate ~ 78.2%"
+            }
+        }
+    },
+    "overall_accuracy": 51.245370864868164
+}

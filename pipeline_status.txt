@@ -3658,3 +3658,133 @@
 2025-08-16 19:31:09 UTC - Prediction failed for LTC/USDT: Command '['python3', 'predict.py', 'LTC_USDT']' returned non-zero exit status 2.
 2025-08-16 19:31:09 UTC - Sleeping for 30 minutes...
 
+2025-08-16 20:01:09 UTC - Starting live data fetch...
+2025-08-16 20:01:14 UTC - Saved 2 candles for BTC/USDT
+2025-08-16 20:01:17 UTC - Saved 2 candles for ETH/USDT
+2025-08-16 20:01:20 UTC - Saved 2 candles for BNB/USDT
+2025-08-16 20:01:23 UTC - Saved 2 candles for XRP/USDT
+2025-08-16 20:01:26 UTC - Saved 2 candles for ADA/USDT
+2025-08-16 20:01:28 UTC - Saved 2 candles for DOGE/USDT
+2025-08-16 20:01:31 UTC - Saved 2 candles for SOL/USDT
+2025-08-16 20:01:34 UTC - Saved 2 candles for DOT/USDT
+2025-08-16 20:01:37 UTC - Saved 2 candles for MATIC/USDT
+2025-08-16 20:01:40 UTC - Saved 2 candles for LTC/USDT
+2025-08-16 20:01:40 UTC - Running predictions for all coins...
+2025-08-16 20:01:40 UTC - Prediction failed for BTC/USDT: Command '['python3', 'predict.py', 'BTC_USDT']' returned non-zero exit status 2.
+2025-08-16 20:01:40 UTC - Prediction failed for ETH/USDT: Command '['python3', 'predict.py', 'ETH_USDT']' returned non-zero exit status 2.
+2025-08-16 20:01:40 UTC - Prediction failed for BNB/USDT: Command '['python3', 'predict.py', 'BNB_USDT']' returned non-zero exit status 2.
+2025-08-16 20:01:40 UTC - Prediction failed for XRP/USDT: Command '['python3', 'predict.py', 'XRP_USDT']' returned non-zero exit status 2.
+2025-08-16 20:01:40 UTC - Prediction failed for ADA/USDT: Command '['python3', 'predict.py', 'ADA_USDT']' returned non-zero exit status 2.
+2025-08-16 20:01:40 UTC - Prediction failed for DOGE/USDT: Command '['python3', 'predict.py', 'DOGE_USDT']' returned non-zero exit status 2.
+2025-08-16 20:01:40 UTC - Prediction failed for SOL/USDT: Command '['python3', 'predict.py', 'SOL_USDT']' returned non-zero exit status 2.
+2025-08-16 20:01:40 UTC - Prediction failed for DOT/USDT: Command '['python3', 'predict.py', 'DOT_USDT']' returned non-zero exit status 2.
+2025-08-16 20:01:40 UTC - Prediction failed for MATIC/USDT: Command '['python3', 'predict.py', 'MATIC_USDT']' returned non-zero exit status 2.
+2025-08-16 20:01:40 UTC - Prediction failed for LTC/USDT: Command '['python3', 'predict.py', 'LTC_USDT']' returned non-zero exit status 2.
+2025-08-16 20:01:40 UTC - Sleeping for 30 minutes...
+
+2025-08-16 20:31:40 UTC - Starting live data fetch...
+2025-08-16 20:31:44 UTC - Saved 2 candles for BTC/USDT
+2025-08-16 20:31:46 UTC - Saved 2 candles for ETH/USDT
+2025-08-16 20:31:49 UTC - Saved 2 candles for BNB/USDT
+2025-08-16 20:31:52 UTC - Saved 2 candles for XRP/USDT
+2025-08-16 20:31:55 UTC - Saved 2 candles for ADA/USDT
+2025-08-16 20:31:58 UTC - Saved 2 candles for DOGE/USDT
+2025-08-16 20:32:02 UTC - Saved 2 candles for SOL/USDT
+2025-08-16 20:32:06 UTC - Saved 2 candles for DOT/USDT
+2025-08-16 20:32:08 UTC - Saved 2 candles for MATIC/USDT
+2025-08-16 20:32:12 UTC - Saved 2 candles for LTC/USDT
+2025-08-16 20:32:12 UTC - Running predictions for all coins...
+2025-08-16 20:32:12 UTC - Prediction failed for BTC/USDT: Command '['python3', 'predict.py', 'BTC_USDT']' returned non-zero exit status 2.
+2025-08-16 20:32:12 UTC - Prediction failed for ETH/USDT: Command '['python3', 'predict.py', 'ETH_USDT']' returned non-zero exit status 2.
+2025-08-16 20:32:12 UTC - Prediction failed for BNB/USDT: Command '['python3', 'predict.py', 'BNB_USDT']' returned non-zero exit status 2.
+2025-08-16 20:32:12 UTC - Prediction failed for XRP/USDT: Command '['python3', 'predict.py', 'XRP_USDT']' returned non-zero exit status 2.
+2025-08-16 20:32:12 UTC - Prediction failed for ADA/USDT: Command '['python3', 'predict.py', 'ADA_USDT']' returned non-zero exit status 2.
+2025-08-16 20:32:12 UTC - Prediction failed for DOGE/USDT: Command '['python3', 'predict.py', 'DOGE_USDT']' returned non-zero exit status 2.
+2025-08-16 20:32:12 UTC - Prediction failed for SOL/USDT: Command '['python3', 'predict.py', 'SOL_USDT']' returned non-zero exit status 2.
+2025-08-16 20:32:12 UTC - Prediction failed for DOT/USDT: Command '['python3', 'predict.py', 'DOT_USDT']' returned non-zero exit status 2.
+2025-08-16 20:32:12 UTC - Prediction failed for MATIC/USDT: Command '['python3', 'predict.py', 'MATIC_USDT']' returned non-zero exit status 2.
+2025-08-16 20:32:12 UTC - Prediction failed for LTC/USDT: Command '['python3', 'predict.py', 'LTC_USDT']' returned non-zero exit status 2.
+2025-08-16 20:32:12 UTC - Sleeping for 30 minutes...
+
+2025-08-16 21:02:12 UTC - Starting live data fetch...
+2025-08-16 21:02:17 UTC - Saved 2 candles for BTC/USDT
+2025-08-16 21:02:21 UTC - Saved 2 candles for ETH/USDT
+2025-08-16 21:02:25 UTC - Saved 2 candles for BNB/USDT
+2025-08-16 21:02:29 UTC - Saved 2 candles for XRP/USDT
+2025-08-16 21:02:33 UTC - Saved 2 candles for ADA/USDT
+2025-08-16 21:02:38 UTC - Saved 2 candles for DOGE/USDT
+2025-08-16 21:02:42 UTC - Saved 2 candles for SOL/USDT
+2025-08-16 21:02:46 UTC - Saved 2 candles for DOT/USDT
+2025-08-16 21:02:51 UTC - Saved 2 candles for MATIC/USDT
+2025-08-16 21:02:55 UTC - Saved 2 candles for LTC/USDT
+2025-08-16 21:02:55 UTC - Running predictions for all coins...
+2025-08-16 21:02:55 UTC - Prediction failed for BTC/USDT: Command '['python3', 'predict.py', 'BTC_USDT']' returned non-zero exit status 2.
+2025-08-16 21:02:55 UTC - Prediction failed for ETH/USDT: Command '['python3', 'predict.py', 'ETH_USDT']' returned non-zero exit status 2.
+2025-08-16 21:02:55 UTC - Prediction failed for BNB/USDT: Command '['python3', 'predict.py', 'BNB_USDT']' returned non-zero exit status 2.
+2025-08-16 21:02:55 UTC - Prediction failed for XRP/USDT: Command '['python3', 'predict.py', 'XRP_USDT']' returned non-zero exit status 2.
+2025-08-16 21:02:55 UTC - Prediction failed for ADA/USDT: Command '['python3', 'predict.py', 'ADA_USDT']' returned non-zero exit status 2.
+2025-08-16 21:02:55 UTC - Prediction failed for DOGE/USDT: Command '['python3', 'predict.py', 'DOGE_USDT']' returned non-zero exit status 2.
+2025-08-16 21:02:55 UTC - Prediction failed for SOL/USDT: Command '['python3', 'predict.py', 'SOL_USDT']' returned non-zero exit status 2.
+2025-08-16 21:02:55 UTC - Prediction failed for DOT/USDT: Command '['python3', 'predict.py', 'DOT_USDT']' returned non-zero exit status 2.
+2025-08-16 21:02:55 UTC - Prediction failed for MATIC/USDT: Command '['python3', 'predict.py', 'MATIC_USDT']' returned non-zero exit status 2.
+2025-08-16 21:02:55 UTC - Prediction failed for LTC/USDT: Command '['python3', 'predict.py', 'LTC_USDT']' returned non-zero exit status 2.
+2025-08-16 21:02:55 UTC - Sleeping for 30 minutes...
+
+2025-08-17 09:27:11 UTC - Starting live data fetch...
+2025-08-17 09:27:11 UTC - Error fetching BTC/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-17 09:27:11 UTC - No data saved for BTC/USDT (fetch failed)
+2025-08-17 09:27:11 UTC - Error fetching ETH/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-17 09:27:11 UTC - No data saved for ETH/USDT (fetch failed)
+2025-08-17 09:27:11 UTC - Error fetching BNB/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-17 09:27:11 UTC - No data saved for BNB/USDT (fetch failed)
+2025-08-17 09:27:11 UTC - Error fetching XRP/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-17 09:27:11 UTC - No data saved for XRP/USDT (fetch failed)
+2025-08-17 09:27:11 UTC - Error fetching ADA/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-17 09:27:11 UTC - No data saved for ADA/USDT (fetch failed)
+2025-08-17 09:27:11 UTC - Error fetching DOGE/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-17 09:27:11 UTC - No data saved for DOGE/USDT (fetch failed)
+2025-08-17 09:27:11 UTC - Error fetching SOL/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-17 09:27:11 UTC - No data saved for SOL/USDT (fetch failed)
+2025-08-17 09:27:11 UTC - Error fetching DOT/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-17 09:27:11 UTC - No data saved for DOT/USDT (fetch failed)
+2025-08-17 09:27:11 UTC - Error fetching MATIC/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-17 09:27:11 UTC - No data saved for MATIC/USDT (fetch failed)
+2025-08-17 09:27:11 UTC - Error fetching LTC/USDT: binance GET https://api.binance.com/api/v3/exchangeInfo
+2025-08-17 09:27:11 UTC - No data saved for LTC/USDT (fetch failed)
+2025-08-17 09:27:11 UTC - Running predictions for all coins...
+2025-08-17 09:27:11 UTC - Prediction failed for BTC/USDT: Command '['python3', 'predict.py', 'BTC_USDT']' returned non-zero exit status 2.
+2025-08-17 09:27:11 UTC - Prediction failed for ETH/USDT: Command '['python3', 'predict.py', 'ETH_USDT']' returned non-zero exit status 2.
+2025-08-17 09:27:11 UTC - Prediction failed for BNB/USDT: Command '['python3', 'predict.py', 'BNB_USDT']' returned non-zero exit status 2.
+2025-08-17 09:27:11 UTC - Prediction failed for XRP/USDT: Command '['python3', 'predict.py', 'XRP_USDT']' returned non-zero exit status 2.
+2025-08-17 09:27:11 UTC - Prediction failed for ADA/USDT: Command '['python3', 'predict.py', 'ADA_USDT']' returned non-zero exit status 2.
+2025-08-17 09:27:11 UTC - Prediction failed for DOGE/USDT: Command '['python3', 'predict.py', 'DOGE_USDT']' returned non-zero exit status 2.
+2025-08-17 09:27:11 UTC - Prediction failed for SOL/USDT: Command '['python3', 'predict.py', 'SOL_USDT']' returned non-zero exit status 2.
+2025-08-17 09:27:11 UTC - Prediction failed for DOT/USDT: Command '['python3', 'predict.py', 'DOT_USDT']' returned non-zero exit status 2.
+2025-08-17 09:27:11 UTC - Prediction failed for MATIC/USDT: Command '['python3', 'predict.py', 'MATIC_USDT']' returned non-zero exit status 2.
+2025-08-17 09:27:11 UTC - Prediction failed for LTC/USDT: Command '['python3', 'predict.py', 'LTC_USDT']' returned non-zero exit status 2.
+2025-08-17 09:27:11 UTC - Sleeping for 30 minutes...
+
+2025-08-17 09:57:11 UTC - Starting live data fetch...
+2025-08-17 09:57:15 UTC - Saved 2 candles for BTC/USDT
+2025-08-17 09:57:17 UTC - Saved 2 candles for ETH/USDT
+2025-08-17 09:57:20 UTC - Saved 2 candles for BNB/USDT
+2025-08-17 09:57:23 UTC - Saved 2 candles for XRP/USDT
+2025-08-17 09:57:26 UTC - Saved 2 candles for ADA/USDT
+2025-08-17 09:57:28 UTC - Saved 2 candles for DOGE/USDT
+2025-08-17 09:57:31 UTC - Saved 2 candles for SOL/USDT
+2025-08-17 09:57:34 UTC - Saved 2 candles for DOT/USDT
+2025-08-17 09:57:37 UTC - Saved 2 candles for MATIC/USDT
+2025-08-17 09:57:40 UTC - Saved 2 candles for LTC/USDT
+2025-08-17 09:57:40 UTC - Running predictions for all coins...
+2025-08-17 09:57:40 UTC - Prediction failed for BTC/USDT: Command '['python3', 'predict.py', 'BTC_USDT']' returned non-zero exit status 2.
+2025-08-17 09:57:40 UTC - Prediction failed for ETH/USDT: Command '['python3', 'predict.py', 'ETH_USDT']' returned non-zero exit status 2.
+2025-08-17 09:57:40 UTC - Prediction failed for BNB/USDT: Command '['python3', 'predict.py', 'BNB_USDT']' returned non-zero exit status 2.
+2025-08-17 09:57:40 UTC - Prediction failed for XRP/USDT: Command '['python3', 'predict.py', 'XRP_USDT']' returned non-zero exit status 2.
+2025-08-17 09:57:40 UTC - Prediction failed for ADA/USDT: Command '['python3', 'predict.py', 'ADA_USDT']' returned non-zero exit status 2.
+2025-08-17 09:57:40 UTC - Prediction failed for DOGE/USDT: Command '['python3', 'predict.py', 'DOGE_USDT']' returned non-zero exit status 2.
+2025-08-17 09:57:40 UTC - Prediction failed for SOL/USDT: Command '['python3', 'predict.py', 'SOL_USDT']' returned non-zero exit status 2.
+2025-08-17 09:57:40 UTC - Prediction failed for DOT/USDT: Command '['python3', 'predict.py', 'DOT_USDT']' returned non-zero exit status 2.
+2025-08-17 09:57:40 UTC - Prediction failed for MATIC/USDT: Command '['python3', 'predict.py', 'MATIC_USDT']' returned non-zero exit status 2.
+2025-08-17 09:57:40 UTC - Prediction failed for LTC/USDT: Command '['python3', 'predict.py', 'LTC_USDT']' returned non-zero exit status 2.
+2025-08-17 09:57:40 UTC - Sleeping for 30 minutes...
+

@@ -15,8 +15,8 @@ REPORTS_DIR.mkdir(exist_ok=True)  # Create folder if it doesn't exist
 SEQ_LEN = 10  # Must match your training sequence length
 
 # Timestamped report filename
-timestamp = datetime.utcnow().strftime("%Y-%m-%d_%H-%M-%S")
-REPORT_FILE = REPORTS_DIR / f"accuracy_report_{timestamp}.json"
+timestamp = datetime.utcnow().strftime("%H:%M:%S_%d-%m-%Y")
+REPORT_FILE = REPORTS_DIR / f"{timestamp}_accuracy_report.json"
 
 
 class PricePredictionModel(torch.nn.Module):
