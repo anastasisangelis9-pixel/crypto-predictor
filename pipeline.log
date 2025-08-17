@@ -341,7 +341,23 @@ Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATI
 Loading model for LTC_USDT
 Loading price data for LTC_USDT
 Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
-top/Crypto Predict/predictions/ETH_USDT_predictions.txt
+2025-08-17 13:19:38 UTC - Starting live data fetch...
+2025-08-17 13:19:44 UTC - Saved 2 candles for BTC/USDT
+2025-08-17 13:19:57 UTC - Saved 2 candles for ETH/USDT
+2025-08-17 13:20:08 UTC - Saved 2 candles for BNB/USDT
+2025-08-17 13:20:14 UTC - Saved 2 candles for XRP/USDT
+2025-08-17 13:20:19 UTC - Saved 2 candles for ADA/USDT
+2025-08-17 13:20:23 UTC - Saved 2 candles for DOGE/USDT
+2025-08-17 13:20:31 UTC - Saved 2 candles for SOL/USDT
+2025-08-17 13:20:36 UTC - Saved 2 candles for DOT/USDT
+2025-08-17 13:20:41 UTC - Saved 2 candles for MATIC/USDT
+2025-08-17 13:20:52 UTC - Saved 2 candles for LTC/USDT
+Loading model for BTC_USDT
+Loading price data for BTC_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
+Loading model for ETH_USDT
+Loading price data for ETH_USDT
+Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
 Loading model for BNB_USDT
 Loading price data for BNB_USDT
 Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt
@@ -366,23 +382,7 @@ Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/MATI
 Loading model for LTC_USDT
 Loading price data for LTC_USDT
 Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/LTC_USDT_predictions.txt
-2025-07-31 11:29:31 UTC - Starting live data fetch...
-2025-07-31 11:29:34 UTC - Saved 2 candles for BTC/USDT
-2025-07-31 11:29:38 UTC - Saved 2 candles for ETH/USDT
-2025-07-31 11:29:41 UTC - Saved 2 candles for BNB/USDT
-2025-07-31 11:29:43 UTC - Saved 2 candles for XRP/USDT
-2025-07-31 11:29:47 UTC - Saved 2 candles for ADA/USDT
-2025-07-31 11:29:53 UTC - Saved 2 candles for DOGE/USDT
-2025-07-31 11:30:01 UTC - Saved 2 candles for SOL/USDT
-2025-07-31 11:30:05 UTC - Saved 2 candles for DOT/USDT
-2025-07-31 11:30:08 UTC - Saved 2 candles for MATIC/USDT
-2025-07-31 11:30:10 UTC - Saved 2 candles for LTC/USDT
-Loading model for BTC_USDT
-Loading price data for BTC_USDT
-Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BTC_USDT_predictions.txt
-Loading model for ETH_USDT
-Loading price data for ETH_USDT
-Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/ETH_USDT_predictions.txt
+top/Crypto Predict/predictions/ETH_USDT_predictions.txt
 Loading model for BNB_USDT
 Loading price data for BNB_USDT
 Predictions saved to /Users/anastangelis/Desktop/Crypto Predict/predictions/BNB_USDT_predictions.txt

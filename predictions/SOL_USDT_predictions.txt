@@ -1,19 +1,19 @@
-Price predictions for Solana (SOL_USDT) at 2025-08-17 12:13:08 UTC
+Price predictions for Solana (SOL_USDT) at 2025-08-17 13:20:57 UTC
 
-Last known (input) price: 188.275574
+Last known (input) price: 191.781738
 
-Short-term prediction (next hour): 189.643845
-Expected change next hour: +1.368271 (+0.73%)
-In simple terms: Price likely to RISE by about 0.73% in the next hour.
+Short-term prediction (next hour): 191.781723
+Expected change next hour: -0.000015 (-0.00%)
+In simple terms: Price likely to FALL by about 0.00% in the next hour.
 
 Long-term predictions for the next 7 days:
-  Day 1: 188.275574 (Change: 0.000000, 0.00%)
-  Day 2: 186.307312 (Change: -1.968262, -1.05%)
-  Day 3: 185.456253 (Change: -2.819321, -1.50%)
-  Day 4: 185.036224 (Change: -3.239349, -1.72%)
-  Day 5: 184.785675 (Change: -3.489899, -1.85%)
-  Day 6: 184.607407 (Change: -3.668167, -1.95%)
-  Day 7: 184.466156 (Change: -3.809418, -2.02%)
+  Day 1: 191.781738 (Change: 0.000000, 0.00%)
+  Day 2: 191.529327 (Change: -0.252411, -0.13%)
+  Day 3: 191.416412 (Change: -0.365326, -0.19%)
+  Day 4: 191.358246 (Change: -0.423492, -0.22%)
+  Day 5: 191.322281 (Change: -0.459457, -0.24%)
+  Day 6: 191.296295 (Change: -0.485443, -0.25%)
+  Day 7: 191.275726 (Change: -0.506012, -0.26%)
 
-Overall trend: Price expected to FALL over 7 days, from 188.275574 to 184.466156 (Loss: -3.809418, -2.02%).
+Overall trend: Price expected to FALL over 7 days, from 191.781738 to 191.275726 (Loss: -0.506012, -0.26%).
 In plain words: Market looks bearish — expect a gradual drop.

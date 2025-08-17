@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Fetch full history for pushing to another branch
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -33,12 +35,10 @@ jobs:
 
       - name: Run pipeline
         run: |
-          echo "Running pipeline.py..."
           python pipeline.py || echo "pipeline.py failed but continuing..."
 
       - name: Run backtest
         run: |
-          echo "Running backtest.py..."
           python backtest.py || echo "backtest.py failed but continuing..."
 
       - name: Ensure accuracy_reports folder exists
@@ -46,28 +46,21 @@ jobs:
           mkdir -p accuracy_reports
           echo "accuracy_reports folder is ready."
 
-      - name: List accuracy reports
-        run: |
-          echo "Listing accuracy_reports folder contents..."
-          ls -lh accuracy_reports/ || echo "Folder is empty"
-
-      - name: Install GitHub CLI
-        run: sudo apt-get update && sudo apt-get install -y gh
-
-      - name: Upload individual accuracy reports
-        run: |
-          for file in accuracy_reports/*.json; do
-            filename=$(basename "$file" .json)
-            echo "Uploading $file as artifact $filename..."
-            gh actions upload-artifact --name "$filename" --path "$file"
-          done
-
-      - name: Commit and push accuracy reports
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+      - name: Push accuracy reports to reports branch
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add accuracy_reports/
-          git commit -m "Add new accuracy report from GitHub Actions $(date +'%H-%M-%S_%d-%m-%Y')" || echo "No changes to commit"
-          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }}.git HEAD:main
+
+          # Create branch if it doesn't exist
+          if git ls-remote --exit-code --heads origin reports; then
+            git checkout reports
+          else
+            git checkout -b reports
+          fi
+
+          # Copy all reports with timestamp
+          cp accuracy_reports/*.json .
+
+          git add *.json
+          git commit -m "Add accuracy report from ${{ github.run_id }}" || echo "No new reports to commit"
+          git push origin reports

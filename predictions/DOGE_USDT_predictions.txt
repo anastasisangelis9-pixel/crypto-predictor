@@ -1,19 +1,19 @@
-Price predictions for Dogecoin (DOGE_USDT) at 2025-08-17 12:13:08 UTC
+Price predictions for Dogecoin (DOGE_USDT) at 2025-08-17 13:20:56 UTC
 
-Last known (input) price: 0.241030
+Last known (input) price: 0.239938
 
-Short-term prediction (next hour): 0.236113
-Expected change next hour: -0.004917 (-2.04%)
-In simple terms: Price likely to FALL by about 2.04% in the next hour.
+Short-term prediction (next hour): 0.235658
+Expected change next hour: -0.004280 (-1.78%)
+In simple terms: Price likely to FALL by about 1.78% in the next hour.
 
 Long-term predictions for the next 7 days:
-  Day 1: 0.241030 (Change: 0.000000, 0.00%)
-  Day 2: 0.248261 (Change: +0.007231, +3.00%)
-  Day 3: 0.255709 (Change: +0.014679, +6.09%)
-  Day 4: 0.263380 (Change: +0.022350, +9.27%)
-  Day 5: 0.271282 (Change: +0.030251, +12.55%)
-  Day 6: 0.279420 (Change: +0.038390, +15.93%)
-  Day 7: 0.287803 (Change: +0.046772, +19.41%)
+  Day 1: 0.239938 (Change: 0.000000, 0.00%)
+  Day 2: 0.247137 (Change: +0.007198, +3.00%)
+  Day 3: 0.254551 (Change: +0.014612, +6.09%)
+  Day 4: 0.262187 (Change: +0.022249, +9.27%)
+  Day 5: 0.270053 (Change: +0.030114, +12.55%)
+  Day 6: 0.278154 (Change: +0.038216, +15.93%)
+  Day 7: 0.286499 (Change: +0.046561, +19.41%)
 
-Overall trend: Price expected to RISE over 7 days, from 0.241030 to 0.287803 (Gain: +0.046772, +19.41%).
+Overall trend: Price expected to RISE over 7 days, from 0.239938 to 0.286499 (Gain: +0.046561, +19.41%).
 In plain words: Market looks bullish — expect a gradual climb.

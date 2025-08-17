@@ -1,19 +1,19 @@
-Price predictions for Polkadot (DOT_USDT) at 2025-08-17 12:13:09 UTC
+Price predictions for Polkadot (DOT_USDT) at 2025-08-17 13:20:58 UTC
 
-Last known (input) price: 4.098383
+Last known (input) price: 4.120603
 
-Short-term prediction (next hour): 4.073516
-Expected change next hour: -0.024867 (-0.61%)
-In simple terms: Price likely to FALL by about 0.61% in the next hour.
+Short-term prediction (next hour): 4.085912
+Expected change next hour: -0.034690 (-0.84%)
+In simple terms: Price likely to FALL by about 0.84% in the next hour.
 
 Long-term predictions for the next 7 days:
-  Day 1: 4.098383 (Change: 0.000000, 0.00%)
-  Day 2: 4.108773 (Change: +0.010390, +0.25%)
-  Day 3: 4.113211 (Change: +0.014828, +0.36%)
-  Day 4: 4.115591 (Change: +0.017208, +0.42%)
-  Day 5: 4.117347 (Change: +0.018964, +0.46%)
-  Day 6: 4.118956 (Change: +0.020573, +0.50%)
-  Day 7: 4.120542 (Change: +0.022159, +0.54%)
+  Day 1: 4.120603 (Change: 0.000000, 0.00%)
+  Day 2: 4.146406 (Change: +0.025804, +0.63%)
+  Day 3: 4.158133 (Change: +0.037530, +0.91%)
+  Day 4: 4.164963 (Change: +0.044360, +1.08%)
+  Day 5: 4.170259 (Change: +0.049657, +1.21%)
+  Day 6: 4.175136 (Change: +0.054533, +1.32%)
+  Day 7: 4.179882 (Change: +0.059279, +1.44%)
 
-Overall trend: Price expected to RISE over 7 days, from 4.098383 to 4.120542 (Gain: +0.022159, +0.54%).
+Overall trend: Price expected to RISE over 7 days, from 4.120603 to 4.179882 (Gain: +0.059279, +1.44%).
 In plain words: Market looks bullish — expect a gradual climb.
