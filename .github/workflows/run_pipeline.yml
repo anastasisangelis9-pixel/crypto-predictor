@@ -10,14 +10,19 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Checkout repo with credentials persisted for pushing
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          persist-credentials: true
 
+      # Set up Python
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
+      # Cache pip dependencies
       - name: Cache pip dependencies
         uses: actions/cache@v3
         with:
@@ -26,36 +31,42 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-pip-
 
+      # Install dependencies
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Run main pipeline
       - name: Run pipeline
         run: |
+          echo "Running pipeline.py..."
           python pipeline.py || echo "pipeline.py failed but continuing..."
 
+      # Run backtest
       - name: Run backtest
         run: |
+          echo "Running backtest.py..."
           python backtest.py || echo "backtest.py failed but continuing..."
 
+      # Ensure accuracy_reports folder exists
       - name: Ensure accuracy_reports folder exists
-        run: mkdir -p accuracy_reports
+        run: |
+          mkdir -p accuracy_reports
+          echo "accuracy_reports folder is ready."
 
+      # List accuracy reports
+      - name: List accuracy reports
+        run: |
+          echo "Listing accuracy_reports folder contents..."
+          ls -lh accuracy_reports/ || echo "Folder is empty"
+
+      # Commit and push reports to separate branch
       - name: Commit and push reports to `reports` branch
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
-          # Switch to or create the reports branch
-          git fetch origin reports || true
           git checkout -B reports
-
-          # Copy all timestamped reports (they are already in accuracy_reports/)
           git add accuracy_reports/
           git commit -m "Add accuracy report $(date +'%H-%M-%S_%d-%m-%Y')" || echo "No changes to commit"
-
-          # Push using GITHUB_TOKEN
-          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} reports --force
+          git push origin reports --force
